@@ -218,16 +218,20 @@ print(message)
 
       It is difficult to conduct a sufficiently controlled experiment given individual teacher preferences and teaching styles, so assessment will be carried out via review of student homework solutions. The system we use that collects student homework submission tracks student code entry over time, and will let us review how they attempted solutions and let us make qualitative observations.
 
+
   \end{exampleblock}
 
   \begin{block}{het Verwachte Resultaat}
     \begin{wrapfigure}{R}{0.52\textwidth}
 \centering
       \includegraphics[width=0.48\textwidth]{./primm.png}
-          \caption{Diagram of the PRIMM methodology\cite{Sentance_2017}, a model incorporating all of these activities that is used in K-12 teaching. A mental model is required to predict, tracing for investigation, debugging to modify.\label{fig:primm}}
+          \caption{Diagram of the PRIMM methodology\cite{Sentance_2017}\label{fig:primm}}
 \end{wrapfigure}
     Unfortunately there was not sufficient time to trial all of these strategies and evaluate the sections. Instead, all of these are currently being trialled in Group 32MBI02, please check back at the end of P3 for results. It is expected that these research backed teaching strategies will significantly improve student learning.
-      \vspace{8em}
+
+      However, given that existing similar models, incorporating all of these
+      activities, is used in K-12 teaching\cite{Sentance_2017}, this
+      intervention is expected to produce good results. Their model, PRIMM, starts with a good mental model which is required to predict, tracing during investigation, and debugging to modify code, all building towards students making things themselves.
 
 
   \end{block}

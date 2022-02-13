@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.5)  13 FEB 2022 20:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.5)  13 FEB 2022 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1452,10 +1452,10 @@ Package rerunfilecheck Info: File `poster.out' has not changed.
 Here is how much of TeX's memory you used:
  40055 strings out of 476919
  951222 string characters out of 5821841
- 1722291 words of memory out of 5000000
+ 1723280 words of memory out of 5000000
  59255 multiletter control sequences out of 15000+600000
  432176 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,18n,132p,903b,1928s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on poster.xdv (1 page, 178448 bytes).
+Output written on poster.xdv (1 page, 180548 bytes).
