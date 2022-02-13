@@ -1,0 +1,79 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cliburn(2003)]{cliburn2003experiences}
+Daniel~C Cliburn.
+\newblock Experiences with pair programming at a small college.
+\newblock \emph{Journal of Computing Sciences in Colleges}, 19\penalty0
+  (1):\penalty0 20--29, 2003.
+
+\bibitem[McDowell et~al.(2003)McDowell, Hanks, and
+  Werner]{mcdowell2003experimenting}
+Charlie McDowell, Brian Hanks, and Linda Werner.
+\newblock Experimenting with pair programming in the classroom.
+\newblock In \emph{Proceedings of the 8th annual conference on Innovation and
+  technology in computer science education}, pages 60--64, 2003.
+
+\bibitem[Mendes et~al.(2005)Mendes, Al-Fakhri, and
+  Luxton-Reilly]{mendes2005investigating}
+Emilia Mendes, Lubna~Basil Al-Fakhri, and Andrew Luxton-Reilly.
+\newblock Investigating pair-programming in a 2nd-year software development and
+  design computer science course.
+\newblock In \emph{Proceedings of the 10th annual SIGCSE conference on
+  Innovation and technology in computer science education}, pages 296--300,
+  2005.
+
+\bibitem[Mendes et~al.(2006)Mendes, Al-Fakhri, and
+  Luxton-Reilly]{mendes2006replicated}
+Emilia Mendes, Lubna Al-Fakhri, and Andrew Luxton-Reilly.
+\newblock A replicated experiment of pair-programming in a 2nd-year software
+  development and design computer science course.
+\newblock \emph{ACM SIGCSE Bulletin}, 38\penalty0 (3):\penalty0 108--112, 2006.
+
+\bibitem[Mentz et~al.(2008)Mentz, van~der Walt, and Goosen]{Mentz_2008}
+E.~Mentz, J.~L. van~der Walt, and L.~Goosen.
+\newblock The effect of incorporating cooperative learning principles in pair
+  programming for student teachers.
+\newblock \emph{Computer Science Education}, 18\penalty0 (4):\penalty0
+  247--260, dec 2008.
+\newblock \doi{10.1080/08993400802461396}.
+\newblock URL \url{https://doi.org/10.1080/08993400802461396}.
+
+\bibitem[Werner et~al.(2004)Werner, Hanks, and McDowell]{werner2004pair}
+Linda~L Werner, Brian Hanks, and Charlie McDowell.
+\newblock Pair-programming helps female computer science students.
+\newblock \emph{Journal on Educational Resources in Computing (JERIC)},
+  4\penalty0 (1):\penalty0 4--es, 2004.
+
+\bibitem[Williams()]{Williams}
+L.~Williams.
+\newblock Integrating pair programming into a software development process.
+\newblock In \emph{Proceedings 14th Conference on Software Engineering
+  Education and Training. {\textquotesingle}In search of a software engineering
+  profession{\textquotesingle} (Cat. No.{PR}01059)}. {IEEE} Comput. Soc.
+\newblock \doi{10.1109/csee.2001.913816}.
+\newblock URL \url{https://doi.org/10.1109/csee.2001.913816}.
+
+\bibitem[Williams and Upchurch(2001)]{Williams_2001}
+Laurie Williams and Richard~L. Upchurch.
+\newblock In support of student pair-programming.
+\newblock \emph{{ACM} {SIGCSE} Bulletin}, 33\penalty0 (1):\penalty0 327--331,
+  mar 2001.
+\newblock \doi{10.1145/366413.364614}.
+\newblock URL \url{https://doi.org/10.1145/366413.364614}.
+
+\bibitem[Williams et~al.(2002)Williams, Wiebe, Yang, Ferzli, and
+  Miller]{Williams_2002}
+Laurie Williams, Eric Wiebe, Kai Yang, Miriam Ferzli, and Carol Miller.
+\newblock In support of pair programming in the introductory computer science
+  course.
+\newblock \emph{Computer Science Education}, 12\penalty0 (3):\penalty0
+  197--212, sep 2002.
+\newblock \doi{10.1076/csed.12.3.197.8618}.
+\newblock URL \url{https://doi.org/10.1076/csed.12.3.197.8618}.
+
+\end{thebibliography}
