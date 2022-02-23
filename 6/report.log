@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  8 FEB 2022 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  23 FEB 2022 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -982,88 +982,17 @@ LaTeX Warning: Marginpar on page 3 moved.
 
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 373.
+Package pdftex.def Info: ../avans.jpg  used on input line 387.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
 [3]
-Overfull \hbox (43.52818pt too wide) in alignment at lines 403--433
- [] [] [] [] [] [] [] [] [] [] [] [] [] 
- []
 
-
-Overfull \hbox (4.4498pt too wide) in paragraph at lines 435--437
-\T1/lmr/m/n/7 (-20) method 
- []
-
-
-Overfull \hbox (1.05235pt too wide) in paragraph at lines 435--437
-\T1/lmr/m/n/7 (-20) lesson.|  
- []
-
-
-Overfull \hbox (4.4498pt too wide) in paragraph at lines 463--464
-\T1/lmr/m/n/7 (-20) method 
- []
-
-
-Overfull \hbox (1.05235pt too wide) in paragraph at lines 463--464
-\T1/lmr/m/n/7 (-20) lesson.|  
- []
-
-
-Overfull \hbox (8.60742pt too wide) in paragraph at lines 490--491
-\T1/lmr/m/n/7 (-20) teacher's 
- []
-
-
-Overfull \hbox (24.9372pt too wide) in paragraph at lines 517--519
-\T1/lmr/m/n/7 (-20) participation.|  
- []
-
-
-Overfull \hbox (8.3589pt too wide) in paragraph at lines 545--546
-\T1/lmr/m/n/7 (-20) learning.|  
- []
-
-
-Overfull \hbox (8.60742pt too wide) in paragraph at lines 572--574
-\T1/lmr/m/n/7 (-20) teacher's 
- []
-
-
-Overfull \hbox (1.48741pt too wide) in paragraph at lines 572--574
-\T1/lmr/m/n/7 (-20) proach 
- []
-
-
-Overfull \hbox (4.15698pt too wide) in paragraph at lines 572--574
-\T1/lmr/m/n/7 (-20) lessons.|  
- []
-
-
-Overfull \hbox (5.39384pt too wide) in paragraph at lines 600--601
-\T1/lmr/m/n/7 (-20) thought 
- []
-
-
-Overfull \hbox (1.05235pt too wide) in paragraph at lines 600--601
-\T1/lmr/m/n/7 (-20) lesson.|  
- []
-
-
-Overfull \hbox (43.52818pt too wide) in alignment at lines 433--627
- [] [] [] [] [] [] [] [] [] [] [] [] [] 
- []
+LaTeX Warning: Marginpar on page 4 moved.
 
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 627.
+Package pdftex.def Info: ../avans.jpg  used on input line 442.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
-[4]
-File: ../avans.jpg Graphic file (type jpg)
-<use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 702.
-(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
- [5] (./report.bbl
+[4] (./report.bbl
 Underfull \hbox (badness 1048) in paragraph at lines 47--51
 []\T1/lmr/m/n/10 (+20) Linda L Werner, Brian Hanks, and Char-lie Mc-Dow-ell.  P
 air-
@@ -1071,80 +1000,144 @@ air-
 
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 70.
+Package pdftex.def Info: ../avans.jpg  used on input line 60.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
-[6])
-<Lesson preparation form v2.pdf, id=109, 1195.01572pt x 845.04686pt>
+[5])
+<Lesson preparation form v2.pdf, id=104, 1195.01572pt x 845.04686pt>
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf>
-Package pdftex.def Info: Lesson preparation form v2.pdf  used on input line 707
+Package pdftex.def Info: Lesson preparation form v2.pdf  used on input line 458
 .
 (pdftex.def)             Requested size: 304.44234pt x 215.28423pt.
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf>
-Package pdftex.def Info: Lesson preparation form v2.pdf  used on input line 707
+Package pdftex.def Info: Lesson preparation form v2.pdf  used on input line 458
 .
 (pdftex.def)             Requested size: 304.44234pt x 215.28423pt.
-<Lesson preparation form v2.pdf, id=112, page=1, 1195.01572pt x 845.04686pt>
+<Lesson preparation form v2.pdf, id=107, page=1, 1195.01572pt x 845.04686pt>
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v2.pdf , page1 used on input l
-ine 707.
+ine 458.
 (pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v2.pdf , page1 used on input l
-ine 707.
+ine 458.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 707.
+Package pdftex.def Info: ../avans.jpg  used on input line 458.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
- [7]
+ [6]
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v2.pdf , page1 used on input l
-ine 707.
+ine 458.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v2.pdf , page1 used on input l
-ine 707.
+ine 458.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: Lesson preparation form v2.pdf Graphic file (type pdf)
 <use Lesson preparation form v2.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v2.pdf , page1 used on input l
-ine 707.
+ine 458.
+(pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
+ [7 <./Lesson preparation form v2.pdf>]
+<Lesson preparation form v2.pdf, id=149, page=2, 1195.01572pt x 845.04686pt>
+File: Lesson preparation form v2.pdf Graphic file (type pdf)
+<use Lesson preparation form v2.pdf, page 2>
+Package pdftex.def Info: Lesson preparation form v2.pdf , page2 used on input l
+ine 458.
+(pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
+File: Lesson preparation form v2.pdf Graphic file (type pdf)
+<use Lesson preparation form v2.pdf, page 2>
+Package pdftex.def Info: Lesson preparation form v2.pdf , page2 used on input l
+ine 458.
+(pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
+File: Lesson preparation form v2.pdf Graphic file (type pdf)
+<use Lesson preparation form v2.pdf, page 2>
+Package pdftex.def Info: Lesson preparation form v2.pdf , page2 used on input l
+ine 458.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
  [8 <./Lesson preparation form v2.pdf>]
-<Lesson preparation form v2.pdf, id=153, page=2, 1195.01572pt x 845.04686pt>
-File: Lesson preparation form v2.pdf Graphic file (type pdf)
-<use Lesson preparation form v2.pdf, page 2>
-Package pdftex.def Info: Lesson preparation form v2.pdf , page2 used on input l
-ine 707.
-(pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
-File: Lesson preparation form v2.pdf Graphic file (type pdf)
-<use Lesson preparation form v2.pdf, page 2>
-Package pdftex.def Info: Lesson preparation form v2.pdf , page2 used on input l
-ine 707.
-(pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
-File: Lesson preparation form v2.pdf Graphic file (type pdf)
-<use Lesson preparation form v2.pdf, page 2>
-Package pdftex.def Info: Lesson preparation form v2.pdf , page2 used on input l
-ine 707.
-(pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
- [9 <./Lesson preparation form v2.pdf>] (./report.aux)
+<Responses.pdf, id=155, 597.53635pt x 845.04686pt>
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf>
+Package pdftex.def Info: Responses.pdf  used on input line 462.
+(pdftex.def)             Requested size: 304.43861pt x 430.54268pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf>
+Package pdftex.def Info: Responses.pdf  used on input line 462.
+(pdftex.def)             Requested size: 304.43861pt x 430.54268pt.
+<Responses.pdf, id=158, page=1, 597.53635pt x 845.04686pt>
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 1>
+Package pdftex.def Info: Responses.pdf , page1 used on input line 462.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 1>
+Package pdftex.def Info: Responses.pdf , page1 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: ../avans.jpg Graphic file (type jpg)
+<use ../avans.jpg>
+Package pdftex.def Info: ../avans.jpg  used on input line 462.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+ [9]
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 1>
+Package pdftex.def Info: Responses.pdf , page1 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 1>
+Package pdftex.def Info: Responses.pdf , page1 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 1>
+Package pdftex.def Info: Responses.pdf , page1 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+ [10 <./Responses.pdf>]
+<Responses.pdf, id=174, page=2, 597.53635pt x 845.04686pt>
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 2>
+Package pdftex.def Info: Responses.pdf , page2 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 2>
+Package pdftex.def Info: Responses.pdf , page2 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 2>
+Package pdftex.def Info: Responses.pdf , page2 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+ [11 <./Responses.pdf>]
+<Responses.pdf, id=180, page=3, 597.53635pt x 845.04686pt>
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 3>
+Package pdftex.def Info: Responses.pdf , page3 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 3>
+Package pdftex.def Info: Responses.pdf , page3 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+File: Responses.pdf Graphic file (type pdf)
+<use Responses.pdf, page 3>
+Package pdftex.def Info: Responses.pdf , page3 used on input line 462.
+(pdftex.def)             Requested size: 597.56223pt x 845.08348pt.
+ [12 <./Responses.pdf>] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 7AAFA43CE3593A4D99D8C192F014BF60;354.
+(rerunfilecheck)             Checksum: 3D9D4C6E5C34BFB0A280AFB26D5AD62E;359.
  ) 
 Here is how much of TeX's memory you used:
- 15926 strings out of 478994
- 240256 string characters out of 5858191
- 637045 words of memory out of 5000000
- 32784 multiletter control sequences out of 15000+600000
- 493136 words of font info for 178 fonts, out of 8000000 for 9000
+ 15939 strings out of 478994
+ 240636 string characters out of 5858191
+ 627837 words of memory out of 5000000
+ 32798 multiletter control sequences out of 15000+600000
+ 492888 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,17n,105p,1195b,577s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 105i,17n,105p,1195b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
 /texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dis
@@ -1154,10 +1147,10 @@ e1/public/lm/lmr5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2021
 /texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on report.pdf (9 pages, 881445 bytes).
+Output written on report.pdf (12 pages, 896924 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
- 51260 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 231 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 51290 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -62,6 +62,19 @@ They additionally provided comments on the above, filtered for comments[^fulldat
 
 Given the feedback it can be concluded that this was a successful intervention and practice that should be continued throughout the rest of the period. Additionally given that there are two sections of this course, one taught by a teacher not employing this method, it will provide an opportunity to further confirm or refute the success of the experiment.
 
+## Do and Don'ts
+
+This method is potentially not for every teacher, some teachers may want more direct control over student learning but I've found it works well for me personally, and after reflecting on the past weeks of implementing this method. Additionally some Don'ts were unfortunately discovered through personal experience[^1].
+
+Do | Don't
+--- | ---
+Switch pairs often! Ideally every exercise someone else codes, someone drives. | But don't get hung up on this, screensharing can be slow and annoying to switch especially for short problems.
+Pair students randomly, so they get experience working with different personalities and skill levels. | Don't pair with a student if there's an odd number / leftovers, a teacher's skill level is too different.
+Allow them some privacy to work on the problems without feeling observed or pressured. | Don't micromanage if they're doing something wrong, guide them to the answer.
+'Walk' around to check in near the end, after they've made some progress. | Don't be aggressive in correcting small mistakes, let them self correct first before guiding.
+
+[^1]: Student feedback noted that "I found it difficult to do the assignments with you 1:1, because I don't understand the assignments immediately and sometimes can feel like I am to slow" which makes me thankful I collected the feedback anonymously, they might not have supplied it otherwise.
+
 # Reflection
 
 In this lesson a significant overhaul was made to the material to function better as an online lesson. Further an intervention of pair programming was applied via breakout rooms and pairing students off in duos. I decided in the first breakout room to give students some privacy and let them discuss together, while in the second round of breakout rooms I "walked around" and visited the various breakout rooms to see how students were getting on[^observing]. The breakout rooms went successfully and students shared their results at the end. This is a process I wish to automate in the future, sharing results back, in order to give students some anonymity while I discuss common issues I saw during their exercise. Here I could only comment on mistakes based on their final result (if I did not observe) or the process if I was present in the breakout room to see the specific error occur.
@@ -82,7 +95,7 @@ Instead of pairing them in duos, I could try pairing them in threes but this mig
 
 ## Trials
 
-Given the results of @werner2004pair I'll be carefully watching the outcomes of my course compared to my colleague's to see how the women in my class feel compared to theirs, and if the difference is significant to help them implement pair programming in their class. However I need to be careful that I'm not blinded by the success of this methodology on a global scale, and make sure I am adapting to students who struggle with this model and prefer working on their own, perhaps to be determined via further student surveying.
+Given the results of @werner2004pair, women normally drop out of computer science based activities at a very high rate, a rate which is significantly decreased with pair-programming implemented. So, I'll be carefully watching the outcomes of my course compared to my colleague's to see how the women in my class feel compared to theirs, and if the difference is significant to help them implement pair programming in their class. However I need to be careful that I'm not blinded by the success of this methodology on a global scale, and make sure I am adapting to students who struggle with this model and prefer working on their own, perhaps to be determined via further student surveying.
 
 
 # References
