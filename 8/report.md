@@ -1,7 +1,7 @@
 ---
 author: Helena Rasche
 date: 2022-02-07
-title: Assignment 8 Evaluate your coaching skills - Reflection Report
+title: Evaluate your coaching skills - Reflection Report
 titlepage: true
 logo: ../avans.jpg
 abstract: |
@@ -34,7 +34,7 @@ I designed the enquête to measure a couple aspects of this communication:
 These aspects I found to be particularly important to me and my interactions with students. I elaborated these with the following survey design:
 
 Question | Aspect      | Text
----      | ---         | ---
+--       | ---         | ---------------
 1        | Question    | How comfortable do you feel discussing course questions, issues, programming questions via
 1        | Description | Example questions include: where's the course recording, why is my code failing, what do you mean I need to import that first
 1        | Answer      | A choice matrix of [Email, Teams Text Chat, Teams Video Chat, In person] and [Please no!, If I must, Meh, It's ok, Yes please, My preferred way!]
