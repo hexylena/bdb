@@ -1,18 +1,19 @@
 # Fdb version 3
-["bibtex report"] 1645626431 "report.aux" "report.bbl" "report" 1645626431
-  "report.aux" 1645626428 2387 f9381d784c939df0668efe048358eab8 "pdflatex"
+["bibtex report"] 1646233416 "report.aux" "report.bbl" "report" 1646233416
+  "report.aux" 1646233415 2714 16d95c5b2b3689edf16e5e86bdef85bb "pdflatex"
   (generated)
-  "report.bbl"
   "report.blg"
-["pdflatex"] 1645626414 "report.tex" "report.pdf" "report" 1645626414
+  "report.bbl"
+["pdflatex"] 1646233410 "report.tex" "report.pdf" "report" 1646233410
   "../avans.jpg" 1643799155 117164 ec909003e32633be4f1d0fbd11c2b47d ""
-  "/dev/null" 1645473531 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/dev/null" 1646056966 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm" 1136768653 6952 fcebd9505ff25166f6bdc98f5d26741b ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm" 1254269338 12076 b54175e02101bea1addf6b2d0197ed12 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm" 1254269338 11276 116dd5bea6621ce4a1999f96d876084c ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm" 1254269338 12056 7e13df7fe4cbce21b072ba7c4f4deb6e ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm" 1254269338 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
@@ -32,6 +33,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm" 1254269338 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm" 1254269338 1556 b86d923e6b2f9aab2e313098a95cb0b8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm" 1136768653 1828 bb8add3bd19426549f9267c88b0cb8bd ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx10.pfb" 1255129361 121021 1bf809ce4a594679006bd72263eba59b ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb" 1255129361 116427 4a5b1ccaa7cce719091920a86b58608d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb" 1255129361 119235 f35b44530a1d90eb90fe15d9cba67ea0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb" 1255129361 122174 a7a08406857c9530a0320a2517f60370 ""
@@ -169,12 +171,12 @@
   "/usr/local/texlive/2021/texmf.cnf" 1620210302 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "q1.png" 1645615185 28857 c19048e7c7aa23ad20ad06369cc35e8f ""
   "q3.png" 1645615201 24757 594cb3ac968120424281968e0937fac4 ""
-  "report.aux" 1645626368 2388 a0778d9780b4d419c117da22ef297d00 "pdflatex"
-  "report.bbl" 1645626371 0 d41d8cd98f00b204e9800998ecf8427e "bibtex report"
-  "report.out" 1645626368 366 bd2204c29a3194d7cbd3d9aa79908faf "pdflatex"
-  "report.tex" 1645626413 16832 2c228ac864fc0d22d6d607dbbc3d17e4 ""
+  "report.aux" 1646233035 2665 1246dcd920ef053b462c2afae6dcab77 "pdflatex"
+  "report.bbl" 1646233017 0 d41d8cd98f00b204e9800998ecf8427e "bibtex report"
+  "report.out" 1646233035 539 edbc71e936229071b7b54d66163584d4 "pdflatex"
+  "report.tex" 1646233409 22226 eeffa4e55a08f936ec3042a052383a89 ""
   (generated)
-  "report.log"
-  "report.out"
   "report.aux"
+  "report.log"
   "report.pdf"
+  "report.out"

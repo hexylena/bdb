@@ -10,7 +10,6 @@ abstract: |
   Following the experiences during BDB and with finally beginning the period(s)
   during which I teach students, I've discovered a number of points which I
   should remind myself of regularly as preparation for each lesson.
-bibliography: report.bib
 classoption:
 - justified
 - a4paper
@@ -58,25 +57,19 @@ Question | Aspect      | Text
 9        | Question    | Final Remarks?
 9        | Answer      | Free text
 
-## Results
+# Results
 
-### Question 1
+**Question 1**: This focused on communication, which gave rather optimistic responses for the second year of a pandemic, as seen in Figure \ref{fig:q1}.
 
-This focused on communication, which gave rather optimistic responses for the second year of a pandemic
+![Students seem to be extremely comfortable with online communication, many just want to see a face clearly as video chat was rated even more highly than in-person meetings which is expected for my section of students as they were the half of the class which did not require in-person learning in a start of period survey.\label{fig:q1}](q1.png)
 
-![Students seem to be extremely comfortable with online communication, many just want to see a face clearly as video chat was rated even more highly than in-person meetings which is expected for my section of students as they were the half of the class which did not require in-person learning in a start of period survey.](./q1.png)
+**Question 2**: Students overall rated online classes as an ok experience (min=1, mean=2, max=4, sd=1), only one student gave a higher rating of 4 out of 5 (five being they're exhausted and hate it online), but this shows suboptimal study design as I've conflated "lack of enjoyment" and "exhaustion" which I expect many of us are experiencing, and it's unclear *why* the student responded like they did.
 
-### Question 2
+**Question 3**: This question answers an important point for me, that students are enjoying the new teaching methods implemented and discussed in Assignment 10, breakout rooms where they do pair-programming. Results in Figure \ref{fig:q3}.
 
-Students overall rated online classes as an ok experience (min=1, mean=2, max=4, sd=1), only one student gave a higher rating of 4 out of 5 (five being they're exhausted and hate it online), but this shows suboptimal study design as I've conflated "lack of enjoyment" and "exhaustion" which I expect many of us are experiencing, and it's unclear *why* the student responded like they did.
+![How do you feel about: a selection of activities and methodologies\label{fig:q3}](./q3.png)
 
-### Question 3
-
-![This question answers an important point for me, that students are enjoying the new teaching methods implemented and discussed in Assignment 10, breakout rooms where they do pair-programming.](./q3.png)
-
-### Question 4
-
-The variety of responses have been interesting to say the least. To summarize the main points of the students:
+**Question 4**: The variety of responses have been interesting to say the least. To summarize the main points of the students:
 
 - Some worried because they were beginners, and know that their answer won't be correct.
 - Some feel very seen, that the teacher takes time to interact and discuss their answer.
@@ -84,9 +77,7 @@ The variety of responses have been interesting to say the least. To summarize th
 
 Seeing these responses, and given that this is a technical course where we have a significant amount of control over where the students execute code, I've asked my TOA to look into automating the collection of student solutions to a given problem in a way that I can use it dynamically during class. That will allow me to discuss student solutions with the class anonymously and maybe achieve everyone's objectives: no hurt feelings, no uncomfortable attention, and the student's solutions we review will still feel seen.
 
-### Question 5
-
-This again gave food for thought on potential options to slow down, some more actionable than others
+**Question 5**: This again gave food for thought on potential options to slow down, some more actionable than others
 
 - All steps should be repeated twice.
 - It's unclear when steps are something we need to run, or just for explanation.
@@ -94,9 +85,7 @@ This again gave food for thought on potential options to slow down, some more ac
 - Sometimes you make a mistake, and catching up is tough, but the recording helps.
 - No problem with speed.
 
-### Question 6
-
-Here I interrogated their community spirit, in case there was anything I could do to help there
+**Question 6**: Here I interrogated their community spirit, in case there was anything I could do to help there
 
 - Answering questions together (x3)
 - Breakout rooms & Exercises (x3)
@@ -108,9 +97,7 @@ I really appreciated the insight of one student's response there:
 
 Which I have to concur with.
 
-### Question 7
-
-This had the most important point for me
+**Question 7**: This had the most important point for me
 
 - Lessons are great, sometimes a bit too fast
 - I really think you are a great teacher already to be honest!
@@ -118,63 +105,47 @@ This had the most important point for me
 
 That third point will be a focus of the reflection section below.
 
-### Question 8
+**Question 8**: Students were absolutely getting the support they need (min=4, max=5, mean=4.666, stdev=0.47)
 
-Students were absolutely getting the support they need (min=4, max=5, mean=4.666, stdev=0.47)
+**Question 9**: The final other remarks section and not well responded to, which is expected given that many people expressed opinions in 6.
 
-### Question 9
+# Reflection
 
-The final other remarks section and not well responded to, which is expected given that many people expressed opinions in 6.
-
-## Reflection
-
-### Situation: Review
+## Situation: Review
 
 Numerous students across numerous questions, in this survey and the previous, noted issues with the speed of lessons. Here either they needed more review of individual things I mentioned (repeating instructions) or more in depth discussion of the exercises which students worked through on their own. While those exercises have solutions available to students as they work through them, some additional discussion is clearly beneficial.
 
-#### Looking Back
+**Looking Back**: During the times this happened during class I saw no indication it was needed. No students reported it, the TOA didn't mention it to me, and during exercises the students appeared to be completing them at the expected pace and with the expected success rate. I thought it was going ok for everyone, however their survey results indicate they don't feel the same.
 
-During the times this happened during class I saw no indication it was needed. No students reported it, the TOA didn't mention it to me, and during exercises the students appeared to be completing them at the expected pace and with the expected success rate. I thought it was going ok for everyone, however their survey results indicate they don't feel the same.
+**Awareness**: To me this feels somewhere between an abject failure (not knowing well enough what is going on with the students) and perfectly acceptable (students won't get things immediately, and will need to practice more later). This leaves me feeling a bit confused as to what the real situation is. I value being approachable to students which feels bad if they don't feel comfortable speaking up in front of their peers when it's too fast.
 
-#### Awareness
-
-To me this feels somewhere between an abject failure (not knowing well enough what is going on with the students) and perfectly acceptable (students won't get things immediately, and will need to practice more later). This leaves me feeling a bit confused as to what the real situation is. I value being approachable to students which feels bad if they don't feel comfortable speaking up in front of their peers when it's too fast.
-
-#### Alternatives
-
-In the future I can interrogate students more regularly as to how they're feeling. This comes at the cost of precious class time, but if the students answer and can give a more accurate assessment of their feeling, then it's worth it.
+**Alternatives**: In the future I can interrogate students more regularly as to how they're feeling. This comes at the cost of precious class time, but if the students answer and can give a more accurate assessment of their feeling, then it's worth it.
 Additionally I can embed more anonymous methods for feedback within the course days (either via Teams or otherwise) to let students indicate their feelings of the speed of the content and their understanding which comes at the expense of more work, more setup time for classes required. However again, maybe it produces a useful result which will make the extra time worth it.
 
-#### Trials
+**Trials**: I will start by going through the steps of every exercise twice to help the students who feel like they got lost along the way. Additionally I'll start regularly sending MS Forms polls in the chat to ask how students are feeling and if it's an ok pace or too fast or slow. I need to see if I can automate this, because it takes a bit of time to setup which distracts from the class. I want to watch out that it's actually an issue of me going too quickly, and not just students keeping up but needing more review time than was available during class.
 
-I will start by going through the steps of every exercise twice to help the students who feel like they got lost along the way. Additionally I'll start regularly sending MS Forms polls in the chat to ask how students are feeling and if it's an ok pace or too fast or slow. I need to see if I can automate this, because it takes a bit of time to setup which distracts from the class. I want to watch out that it's actually an issue of me going too quickly, and not just students keeping up but needing more review time than was available during class.
-
-### Situation: Experience Gap
+## Situation: Experience Gap
 
 During one class we had an odd number of students. I have been doing breakout rooms exclusively with duos, as I wanted them to learn the corporate skill of pair programming. Given the odd student count, I decided I'd pair with the leftover student myself so they could be included in the activity. I paired with two different students during that class period, so, thankfully the student remains anonymous:
 
-> I found it difficult to do the assignments with you 1:1, because I don't understand the assignments immediately and sometimes can feel like I am to slow. It would have helped if I got a bit more time to try it myself and read the question I think. (The 1:1 itself doesn't bother me tho)
+> I found it difficult to do the assignments with you 1:1, because I don't understand the assignments immediately and sometimes can feel like I am too slow. It would have helped if I got a bit more time to try it myself and read the question I think. (The 1:1 itself doesn't bother me tho)
 
 I should have paired them with someone on their own level, rather than attempting to participate due the huge disparity in skill levels which naturally led to blindspots where they did not understand the exercise and I continued forward.
 
-#### Looking Back
+**Looking Back**: At the time I should have noticed. I attempted to 'play' an equal who wouldn't be confirming their understanding and would expect them to ask about questions they had. This was a suboptimal choice.
 
-#### Awareness
+**Awareness**: This feels like a small failing as a teacher, I should have known it would not work successfully and either put them in a trio, or let them lead the entire experience rather than trying to stay to pair programming. It was the obvious thing that would happen, when pairing two people of vastly inequal skill levels, that one would feel the desire to push forward no matter what. It goes against my core values to give this student a poor learning experience and environment, especially if they didn't feel comfortable enough to ask for more time to understand the exercises.
 
-#### Alternatives
+**Alternatives**: In the future avoiding the situation in the first place would be the most ideal option, to avoid any biases creeping into the conversation or exchange. Given that it was a practice period, the skill gap is insurmountable and impossible to address, so other options must be sought. If trios (with more evidence) proves suboptimal, then I can pair with students and allow them to lead the entire exercise, maybe that will go more easily?
 
-#### Trials
-
-
-- difficult 1:1
-
-4. Process and describe the results and reflect on them via a reflection model of your choice.
-
+**Trials**: I will start by avoiding this situation where possible while I collect more data on if trios are better or worse than duos. If trios turn out to be worse, then I will start pairing them with the TOA (for a smaller skill differential) and failing that with myself, but in either of the latter two cases I will recommend the student drives the exercise, and the TOA/teacher simply acts as facilitator.
 
 # Action Points
+
+Based on the results obtained in this brief survey, I've formulated a number of points of attention to focus on during the period:
 
 - Go through questions at the end of each exercise section.
 - Go through student solutions anonymously and discuss common problems.
 - Do not pair with students, the knowledge gap is too significant, instead have them form trios.
 
-5. Formulate action points: to what and how do you want to work in relation to the teacher-student relationship?
+These seem relatively easy things to control and focus on, which in my opinion bodes well for the coming semester. If this is all that the students disliked, then, it's probably going ok.

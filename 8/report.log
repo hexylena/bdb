@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  23 FEB 2022 15:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  2 MAR 2022 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -909,83 +909,96 @@ Overfull \hbox (6.32375pt too wide) in paragraph at lines 257--258
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<./q1.png, id=28, 727.21687pt x 313.17pt>
-File: ./q1.png Graphic file (type png)
-<use ./q1.png>
-Package pdftex.def Info: ./q1.png  used on input line 321.
+<q1.png, id=37, 727.21687pt x 313.17pt>
+File: q1.png Graphic file (type png)
+<use q1.png>
+Package pdftex.def Info: q1.png  used on input line 325.
 (pdftex.def)             Requested size: 304.45251pt x 131.10997pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-35.
 
+
+LaTeX Warning: Reference `fig:q3' on page 2 undefined on input line 344.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+45.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-35.
+45.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-335.
+345.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-335.
+345.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 335.
+(Font)              <10> on input line 345.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.6> on input line 335.
+(Font)              <7.6> on input line 345.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 335.
+(Font)              <6> on input line 345.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-335.
+345.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 335.
+(Font)              scaled to size 10.42007pt on input line 345.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 335.
+(Font)              scaled to size 7.91925pt on input line 345.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 335.
+(Font)              scaled to size 6.25204pt on input line 345.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 335.
+(Font)              scaled to size 10.42007pt on input line 345.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 335.
+(Font)              scaled to size 7.91925pt on input line 345.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 335.
-<../avans.jpg, id=29, 1273.75874pt x 424.58624pt>
+(Font)              scaled to size 6.25204pt on input line 345.
+<../avans.jpg, id=38, 1273.75874pt x 424.58624pt>
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 335.
+Package pdftex.def Info: ../avans.jpg  used on input line 345.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
- [2 <./q1.png (PNG copy)> <../avans.jpg>]
-<./q3.png, id=39, 718.18312pt x 314.67563pt>
+ [2 <../avans.jpg>]
+<./q3.png, id=47, 718.18312pt x 314.67563pt>
 File: ./q3.png Graphic file (type png)
 <use ./q3.png>
-Package pdftex.def Info: ./q3.png  used on input line 338.
+Package pdftex.def Info: ./q3.png  used on input line 348.
 (pdftex.def)             Requested size: 304.4512pt x 133.39685pt.
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 397.
+Package pdftex.def Info: ../avans.jpg  used on input line 389.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
- [3 <./q3.png (PNG copy)>]
+ [3 <./q1.png (PNG copy)> <./q3.png (PNG copy)>]
+File: ../avans.jpg Graphic file (type jpg)
+<use ../avans.jpg>
+Package pdftex.def Info: ../avans.jpg  used on input line 464.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+ [4]
+File: ../avans.jpg Graphic file (type jpg)
+<use ../avans.jpg>
+Package pdftex.def Info: ../avans.jpg  used on input line 518.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+ [5]
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
@@ -993,31 +1006,38 @@ Package bibentry Warning: You have used \nobibliography*
 
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 482.
+Package pdftex.def Info: ../avans.jpg  used on input line 565.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
-[4] (./report.aux)
+[6] (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: BD2204C29A3194D7CBD3D9AA79908FAF;366.
+(rerunfilecheck)             Checksum: EDBC71E936229071B7B54D66163584D4;539.
  ) 
 Here is how much of TeX's memory you used:
- 15711 strings out of 478994
- 236690 string characters out of 5858191
- 622712 words of memory out of 5000000
- 32688 multiletter control sequences out of 15000+600000
- 467661 words of font info for 116 fonts, out of 8000000 for 9000
+ 15760 strings out of 478994
+ 237272 string characters out of 5858191
+ 623830 words of memory out of 5000000
+ 32696 multiletter control sequences out of 15000+600000
+ 472238 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,13n,105p,1195b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 105i,13n,105p,1195b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/
-texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dis
-t/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/typ
-e1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm
-/lmr9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on report.pdf (4 pages, 330972 bytes).
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2021/texmf-dist
+/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
+pe1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
+lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr9.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
+Output written on report.pdf (6 pages, 365044 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 34856 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 36920 words of extra memory for PDF output out of 42996 (max. 10000000)
 
