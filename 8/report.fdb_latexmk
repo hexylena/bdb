@@ -1,10 +1,10 @@
 # Fdb version 3
-["bibtex report"] 1646233416 "report.aux" "report.bbl" "report" 1646233416
-  "report.aux" 1646233415 2714 16d95c5b2b3689edf16e5e86bdef85bb "pdflatex"
+["bibtex report"] 1646233596 "report.aux" "report.bbl" "report" 1646233712
+  "report.aux" 1646233711 2714 16d95c5b2b3689edf16e5e86bdef85bb "pdflatex"
   (generated)
-  "report.blg"
   "report.bbl"
-["pdflatex"] 1646233410 "report.tex" "report.pdf" "report" 1646233410
+  "report.blg"
+["pdflatex"] 1646233706 "report.tex" "report.pdf" "report" 1646233712
   "../avans.jpg" 1643799155 117164 ec909003e32633be4f1d0fbd11c2b47d ""
   "/dev/null" 1646056966 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
@@ -171,12 +171,12 @@
   "/usr/local/texlive/2021/texmf.cnf" 1620210302 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "q1.png" 1645615185 28857 c19048e7c7aa23ad20ad06369cc35e8f ""
   "q3.png" 1645615201 24757 594cb3ac968120424281968e0937fac4 ""
-  "report.aux" 1646233035 2665 1246dcd920ef053b462c2afae6dcab77 "pdflatex"
-  "report.bbl" 1646233017 0 d41d8cd98f00b204e9800998ecf8427e "bibtex report"
-  "report.out" 1646233035 539 edbc71e936229071b7b54d66163584d4 "pdflatex"
-  "report.tex" 1646233409 22226 eeffa4e55a08f936ec3042a052383a89 ""
+  "report.aux" 1646233711 2714 16d95c5b2b3689edf16e5e86bdef85bb "pdflatex"
+  "report.bbl" 1646233596 0 d41d8cd98f00b204e9800998ecf8427e "bibtex report"
+  "report.out" 1646233711 539 edbc71e936229071b7b54d66163584d4 "pdflatex"
+  "report.tex" 1646233706 22292 9a10c13489d542d611a95fa68b847f4c ""
   (generated)
+  "report.out"
   "report.aux"
   "report.log"
   "report.pdf"
-  "report.out"

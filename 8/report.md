@@ -1,7 +1,8 @@
 ---
 author: Helena Rasche
 date: 2022-02-07
-title: Evaluate your coaching skills - Reflection Report
+title: Assignment 8 - Evaluate your coaching skills - Reflection Report
+shorttitle: A8 - Evaluation of Coaching Skills
 titlepage: true
 logo: ../avans.jpg
 abstract: |
