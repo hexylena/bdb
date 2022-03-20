@@ -1,0 +1,131 @@
+Approach
+1. Choose a lesson that needs improvement in the field of constructive alignment.
+
+	Day 3, De novo genome assembly
+	https://brightspace.avans.nl/d2l/le/lessons/52743/lessons/310329
+
+2. Describe (the lack of) coherence between assessment, learning objectives and learning activities.
+
+
+	Learning outcomes
+		- Compute and interpret a whole genome assembly.
+		- Judge the quality of a genome assembly.
+
+	Learning activities
+		- conda
+		- spades
+		- quast
+
+	Assessment
+		1. How many k-mers are in these reads (including duplicates), for
+		2. How many distinct k-mers are in these reads?
+		3. Pretend these reads come from the genome TACAGTCAGA. What is the largest k such that the set of distinct k-mers in the genome is exactly the set of distinct k-mers in the reads above?
+		4. For any value of k, is there a mathematical relation between N, the number of k-mers (incl. duplicates) in a sequence, and L, the length of that sequence?
+
+
+
+3. Indicate in which area an improvement is needed and which.
+
+	The learning activities do not support the learning outcomes sufficiently.
+	- compute a genome assembly is done, but interpreting the results is not sufficiently covered. There's no discussion of what the results mean or how to analyse them
+	- Additionally the discussion of quality judgement is extremely insufficient, students are given two extremely similar examples to compare, not giving them the skills to discern which are bad assemblies and why.
+
+	These activities should be improved such that those goals are achieved.
+
+4. Check and describe how the lesson fits in with the professional profile, the final qualifications, the competences and the determined study load of the program.
+
+
+	This class is worth 2 ECs.
+
+	Minor Bioinformatica
+
+	In this minor, you will focus on handling, storing, retrieving and visualizing massive amounts of biological data. While data generation is faster than data management, visualization gets more and more important. To achieve this you will cooperate with informatics specialists. On the other hand, you will work with biologists, who generate the data and try to find patterns or predictions. This way of thinking and doing in this minor, enables you to cooperate productively with biomedical research companies and research institutions such as LUMC, Erasmus MC, Nijmegen University, or companies such as Philips, Lead Pharma and the Netherlands Translational Research Center (NTRC). Moreover, this minor can be used as a preparation phase if you plan to continue your education with  a Master’s study in related areas. In short, this minor opens a range of possibilities.
+
+
+	BML
+
+	General laboratory skills based on GLP rules: weighing, pipetting, making solutions (buffers,
+	culture media) and preparations, colourings, microscopy, lab journal, chemical calculations
+	: Safe working in the laboratory, working in accordance with GMT rules (good microbiological
+	techniques): working in aseptic conditions, culturing micro-organisms and eukaryotic cells,
+	working with special media, biological materials (tissues, cells, etc.) and biomolecules (proteins
+	and/or antibodies, DNA)
+	: Using standard laboratory equipment: pH meter, spectrophotometer, centrifuge, power
+	sources, electrophoretic equipment, fume cupboard, safety cabinet, microscope
+	: Molecular-biology techniques: DNA/RNA-isolation, digestion, ligation, transformation, PCR,
+	gel electrophoresis
+	: Chemical analysis methods: spectrometry, chromatography, enzyme analysis, bonding
+	analysis
+	: (Bio)chemical procedures: fractionation methods, SDS-PAGE, blotting, preparative
+	chromatography
+	: Computer skills: spreadsheets, slide presentations, bio-informatics tools, simple imaging
+	: Social and communication skills: collaborating, meetings, reporting (lab journal, research
+	report), presentation, project-based work, ethics
+	: Research skills: problem analysis, research questions, desk research, research planning and
+	implementation
+
+
+5. Describe if and, if so, where there are opportunities for improvement at step 4.
+
+	specifically it is called out the massive amounts of data they'll handle
+
+	> In this minor, you will focus on handling, storing, retrieving and visualizing massive amounts of biological data.
+
+	But here we analyse two relatively small genomes, this should be scaled up
+	significantly across more samples to truly meet the goals of the course.
+	This would additionally let us introduce variety of data, good to bad, and
+	let the students separate those based on their quality scoring criteria.
+
+6. Describe the improvements you want to apply and what will change in the teaching activity as a result.
+
+	The lesson needs to expand to include a section on evaluation of genomes by
+	quality metrics as well as a discussion of those major quality metrics that
+	are used in the field.
+
+	We'll write a new section on quality control discussing N50, total
+	cumulative size, and other metrics.
+
+	Then the lesson will be adapted to have students assemble multiple genomes
+	in parallel, maybe via a small workflow they need to build, multiple
+	genomes from different datasets of varying quality.
+
+7. From the above (3, 5 and 6) formulate the (new) learning objectives in accordance with the 3C model for the chosen lesson.
+
+	- Compute multiple whole genome assemblies in such a way to develop big data processing skills
+	- Learn to evaluate quality metrics so that they can separate good and bad assemblies
+
+8. (Re) design this lesson using the 'crib sheet designing education'.
+
+	1 Establish the starting situation
+	- Create links with the students’ prior knowledge
+	- Create links with the personal objectives, motivation, and learning experiences of students
+
+	2 Formulate learning objectives
+	- Relationship between learning objectives and attainment targets
+	- Central theme for the module/training unit
+	- Position of the curriculum
+	- Translate the learning objectives into lesson objectives
+	- Determine the level of knowledge (proficiency levels)
+	- Determine the level of skills (proficiency levels)
+	- Determine the available time
+
+	3 Decide on lesson materials
+	- Determine theme
+	- Determine the sub-themes
+	- Sort the lesson materials
+
+	4 Form of assessment
+	- Types of tests
+	- Functions of tests
+
+	5 Choose the work forms
+	- What kinds of objectives and proficiency level?
+	- Number of students?
+	- How much time available?
+	- Type of guidance/supervision?
+	- Differentiation
+
+9. Fill in a preparation form for the new educational activity.
+10. Submit an elaboration of steps 1 to 9 for the (re) designed educational activity for peer feedback.
+11. Give feedback on the development of this assignment from (at least) one fellow student and share this feedback with the relevant fellow student.
+12. Include an improved version of your assignment in your portfolio based on the peer feedback received. Time Share your feedback on the elaboration
