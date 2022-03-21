@@ -8,7 +8,8 @@ logo: ../avans.jpg
 classoption:
 - justified
 - a4paper
-include-after: []
+include-after:
+- \includepdf[pages=-]{Lesson preparation form v0.pdf}
 colorlinks: true
 abstract: |
   The lesson to be re-designed is Computational Biology, Day 3: De Novo Genome Assembly, which unfortunately currently experiences poor coherence between assessment, learning objectives, and learning activities. This will be improved by taking the solid core of the lesson and expanding it to further test student's abilities and align with overall course and program goals.
@@ -110,8 +111,8 @@ Students will attend this lesson with previous theoretical experience doing asse
 The above described updated learning objectives will allow students to efficiently approach targeted skills and knowledge as described in the minor bioinformatic and BML programmes above. This lesson falls near the end of their curriculum and as such can spend more time focused on an in-depth understanding of assemblies and their associated failure modes. The module is titled "Computational Biology", which is furthered through their development of genome assembly skills and computational scaling of analyses across multiple samples, and visualisation thereof. This is a task of which they need to become Intermediate practitioners, in both knowledge and application, within the 2ECs available. By this point in their career they have already become Novices with assembly and genomics as topics, letting them now deepen their knowledge and meet overall Minor Bioinformatica Learning Objectives such as massive data handling and visualisation.
 
 This lesson's theme is assembly which is supported through several phases and materials:
-1. an initial presentation on assembly
-2. an assembly activity
+1. an assembly activity
+2. an initial presentation on assembly
 3. a demonstration portion
 4. a hands-on portion where students work in duos to assemble multiple genomes
 5. a subsequent presentation on quality metrics and visualisation
