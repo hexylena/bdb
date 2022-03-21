@@ -5,6 +5,7 @@
 \documentclass[paper=a4,justified,a4paper]{tufte-handout}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
+\usepackage{cleveref}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -77,6 +78,8 @@
 \fancyfoot[CE,CO]{\flushright \includegraphics[width=3cm]{../avans.jpg}}
 \fancyhead[CE,CO]{\flushleft \smallcaps{\today}}
 
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
 
 \title[A7 - Lesson Re-design]{Assignment 7 - Lesson Re-design}
 \author{Helena Rasche}
@@ -118,7 +121,7 @@ quality of a genome assembly.\strut
 \begin{minipage}[t]{0.31\columnwidth}\raggedright
 Learning Activities\strut
 \end{minipage} & \begin{minipage}[t]{0.63\columnwidth}\raggedright
-Conda (LO1), Spades (LO1), Quast (LO2), Comparison (LO2)\strut
+Conda (LO1), Spades (LO1), Qualimap (LO2), Comparison (LO2)\strut
 \end{minipage}\tabularnewline
 \begin{minipage}[t]{0.31\columnwidth}\raggedright
 Assessment\strut
@@ -150,7 +153,7 @@ These are organised in the lecture as:
   \begin{itemize}
   \tightlist
   \item
-    Here we do ``Quast'', ``Comparison''
+    Here we do ``Qualimap'', ``Comparison''
   \end{itemize}
 \item
   Some formative assessments over their impressions of genome assembly
@@ -223,14 +226,33 @@ But here we analyse two relatively small genomes, this should be scaled
 up significantly across more samples to truly meet the goals of the
 course. This would additionally let us introduce variety of data, good
 to bad, and let the students separate those based on their quality
-scoring criteria. On top of that, we fail to exercise good visualisation
-of the results, and need to introduce that so students have better
-comprehension of an incredibly abstract topic.
+scoring criteria like the N50, average read depth, or regions of low
+read depth as seen in Figure \ref{fig:qualimap}. On top of that, we fail
+to exercise good visualisation of the results that are readily available
+such as via Bandage (Figure \ref{fig:bandage},
+\citep{10.1093/bioinformatics/btv383}), and need to introduce that so
+students have better comprehension of an incredibly abstract topic.
+
+\begin{figure}
+\centering
+\includegraphics{./coverage.png}
+\caption{A graph from the tool qualimap, showing average coverage across
+the reference, areas of low coverage may be suspicious and require
+investigation, or reassembly, or resequencing.\label{fig:qualimap}}
+\end{figure}
 
 Students do not get the chance to explore the problem space themselves
 and optimise the results, something that would be improved with
 integration of more and larger datasets, allowing students to practice
 problem analysis and analysing questions applicable to later research.
+
+\begin{figure}
+\centering
+\includegraphics{./bandage_gui.png}
+\caption{A genome graph extracted from the assembly process and
+visualised with Bandage, showing relatively poor assembly and lots of
+repeats and ambiguous sequences.\label{fig:bandage}}
+\end{figure}
 
 \hypertarget{content-improvement-plan}{%
 \section{Content Improvement Plan}\label{content-improvement-plan}}
@@ -371,6 +393,8 @@ discussion with peer teaching (as students will explain which one is
 better and why to each other.) The in class teaching time is 2.5 hours
 which should allow plenty of time for varied work forms to help students
 achieve learning goals.
+
+\bibliography{report.bib}
 
 \includepdf[pages=-]{Lesson preparation form v0.pdf}
 

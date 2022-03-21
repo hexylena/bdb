@@ -11,6 +11,7 @@ classoption:
 include-after:
 - \includepdf[pages=-]{Lesson preparation form v0.pdf}
 colorlinks: true
+bibliography: report.bib
 abstract: |
   The lesson to be re-designed is Computational Biology, Day 3: De Novo Genome Assembly, which unfortunately currently experiences poor coherence between assessment, learning objectives, and learning activities. This will be improved by taking the solid core of the lesson and expanding it to further test student's abilities and align with overall course and program goals.
 ---
@@ -22,7 +23,7 @@ Currently the lesson features the following components:
 Aspect              | Currently
 -----               | ----------
 Learning Outcomes   | LO1) Compute and interpret a whole genome assembly, LO2) Judge the quality of a genome assembly.
-Learning Activities | Conda (LO1), Spades (LO1), Quast (LO2), Comparison (LO2)
+Learning Activities | Conda (LO1), Spades (LO1), Qualimap (LO2), Comparison (LO2)
 Assessment          | k-mer exploration (no LOs.)
 
 These are organised in the lecture as:
@@ -32,7 +33,7 @@ These are organised in the lecture as:
 - A hands-on portion where students run the assemblies (LO1)
 	- Here students run "Conda", "Spades"
 - Discussion of genome quality (LO2)
-	- Here we do "Quast", "Comparison"
+	- Here we do "Qualimap", "Comparison"
 - Some formative assessments over their impressions of genome assembly qualities
 
 # Areas for Improvement
@@ -64,15 +65,19 @@ The above context section gets to the core of the problem.
 But here we analyse two relatively small genomes, this should be scaled up
 significantly across more samples to truly meet the goals of the course.
 This would additionally let us introduce variety of data, good to bad, and
-let the students separate those based on their quality scoring criteria.
-On top of that, we fail to exercise good visualisation of the results, and need
+let the students separate those based on their quality scoring criteria like the N50, average read depth, or regions of low read depth as seen in Figure \ref{fig:qualimap}.
+On top of that, we fail to exercise good visualisation of the results that are readily available such as via Bandage (Figure \ref{fig:bandage}, [@10.1093/bioinformatics/btv383]), and need
 to introduce that so students have better comprehension of an incredibly
 abstract topic.
+
+![A graph from the tool qualimap, showing average coverage across the reference, areas of low coverage may be suspicious and require investigation, or reassembly, or resequencing.\label{fig:qualimap}](./coverage.png)
 
 Students do not get the chance to explore the problem space themselves and
 optimise the results, something that would be improved with integration of more
 and larger datasets, allowing students to practice problem analysis and
 analysing questions applicable to later research.
+
+![A genome graph extracted from the assembly process and visualised with Bandage, showing relatively poor assembly and lots of repeats and ambiguous sequences.\label{fig:bandage}](./bandage_gui.png)
 
 # Content Improvement Plan
 
