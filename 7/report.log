@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  21 MAR 2022 12:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  21 MAR 2022 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -693,14 +693,6 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box103
 \fn@width=\dimen193
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen194
-\ESO@tempdimb=\dimen195
-)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -715,8 +707,22 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen196
-\Gin@req@width=\dimen197
+\Gin@req@height=\dimen194
+\Gin@req@width=\dimen195
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/grffile/grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen196
+\ESO@tempdimb=\dimen197
 )
 \AM@pagewidth=\dimen198
 \AM@pageheight=\dimen199
@@ -745,25 +751,25 @@ LaTeX Warning: Unused global option(s):
 (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-Package hyperref Info: Link coloring ON on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+Package hyperref Info: Link coloring ON on input line 85.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -777,15 +783,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 76.
-LaTeX Info: Redefining \pageref on input line 76.
-LaTeX Info: Redefining \nameref on input line 76.
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
  (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 76.
+LaTeX Info: Redefining \selectfont on input line 85.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -822,14 +828,14 @@ LaTeX Info: Redefining \selectfont on input line 76.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \langwohyphens=\language87
-LaTeX Info: Redefining \microtypecontext on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 85.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 76.
+LaTeX Info: Redefining \showhyphens on input line 85.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -867,142 +873,149 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Overfull \hbox (56.90552pt too wide) in paragraph at lines 86--87
+Overfull \hbox (56.90552pt too wide) in paragraph at lines 95--96
 [] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-27.
+36.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-50.
 
+LaTeX Warning: Reference `fig:activity' on page 2 undefined on input line 243.
+
+<./activity.png, id=45, 764.10469pt x 398.99063pt>
+File: ./activity.png Graphic file (type png)
+<use ./activity.png>
+Package pdftex.def Info: ./activity.png  used on input line 255.
+(pdftex.def)             Requested size: 304.44722pt x 158.97243pt.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+76.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-50.
+76.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-250.
+276.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-250.
+276.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 250.
+(Font)              <10> on input line 276.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.6> on input line 250.
+(Font)              <7.6> on input line 276.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 250.
+(Font)              <6> on input line 276.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-250.
+276.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 250.
+(Font)              scaled to size 10.42007pt on input line 276.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 250.
+(Font)              scaled to size 7.91925pt on input line 276.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 250.
+(Font)              scaled to size 6.25204pt on input line 276.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 250.
+(Font)              scaled to size 10.42007pt on input line 276.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 250.
+(Font)              scaled to size 7.91925pt on input line 276.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 250.
-<../avans.jpg, id=45, 1273.75874pt x 424.58624pt>
+(Font)              scaled to size 6.25204pt on input line 276.
+<../avans.jpg, id=46, 1273.75874pt x 424.58624pt>
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 250.
-(pdftex.def)             Requested size: 85.35826pt x 28.44777pt.
+Package pdftex.def Info: ../avans.jpg  used on input line 276.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
  [2 <../avans.jpg>]
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 320.
-(pdftex.def)             Requested size: 85.35826pt x 28.44777pt.
- [3]
-<Lesson preparation form v0.pdf, id=61, 1195.01572pt x 845.04686pt>
+Package pdftex.def Info: ../avans.jpg  used on input line 335.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+ [3 <./activity.png (PNG copy)>]
+<Lesson preparation form v0.pdf, id=63, 1195.01572pt x 845.04686pt>
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf>
-Package pdftex.def Info: Lesson preparation form v0.pdf  used on input line 345
+Package pdftex.def Info: Lesson preparation form v0.pdf  used on input line 375
 .
-(pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
+(pdftex.def)             Requested size: 304.44234pt x 215.28423pt.
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf>
-Package pdftex.def Info: Lesson preparation form v0.pdf  used on input line 345
+Package pdftex.def Info: Lesson preparation form v0.pdf  used on input line 375
 .
-(pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
-<Lesson preparation form v0.pdf, id=64, page=1, 1195.01572pt x 845.04686pt>
+(pdftex.def)             Requested size: 304.44234pt x 215.28423pt.
+<Lesson preparation form v0.pdf, id=66, page=1, 1195.01572pt x 845.04686pt>
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page1 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 1195.01282pt x 845.0448pt.
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page1 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 345.
-(pdftex.def)             Requested size: 85.35826pt x 28.44777pt.
+Package pdftex.def Info: ../avans.jpg  used on input line 375.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
  [4]
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page1 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page1 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 1>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page1 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
  [5 <./Lesson preparation form v0.pdf>]
-<Lesson preparation form v0.pdf, id=101, page=2, 1195.01572pt x 845.04686pt>
+<Lesson preparation form v0.pdf, id=103, page=2, 1195.01572pt x 845.04686pt>
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 2>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page2 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 2>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page2 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
 File: Lesson preparation form v0.pdf Graphic file (type pdf)
 <use Lesson preparation form v0.pdf, page 2>
 Package pdftex.def Info: Lesson preparation form v0.pdf , page2 used on input l
-ine 345.
+ine 375.
 (pdftex.def)             Requested size: 597.50641pt x 422.5224pt.
  [6 <./Lesson preparation form v0.pdf>]
 
@@ -1011,28 +1024,34 @@ Package bibentry Warning: You have used \nobibliography*
 (bibentry)                You may not be able to run BibTeX.
 
 (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 21E7BE6567226F5505A454A4531DFE8C;1127.
  ) 
 Here is how much of TeX's memory you used:
- 15708 strings out of 478994
- 237008 string characters out of 5858191
- 615555 words of memory out of 5000000
- 32680 multiletter control sequences out of 15000+600000
- 456577 words of font info for 117 fonts, out of 8000000 for 9000
+ 15749 strings out of 478994
+ 237637 string characters out of 5858191
+ 616664 words of memory out of 5000000
+ 32696 multiletter control sequences out of 15000+600000
+ 460325 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,17n,105p,1195b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
-/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2021/
+ 105i,17n,105p,1195b,579s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
 pe1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
-lm/lmr9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pf
-b>
-Output written on report.pdf (6 pages, 333435 bytes).
+lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr9.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
+Output written on report.pdf (6 pages, 525748 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 141 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  22 named destinations out of 1000 (max. 500000)
- 30807 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 32860 words of extra memory for PDF output out of 35830 (max. 10000000)
 

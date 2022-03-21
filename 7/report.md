@@ -80,8 +80,11 @@ The initial part of the lesson covering assembly background is useful
 theoretical knowledge for students and should be kept, but maybe augmented with
 student activities like "assembling" some sentence of text, to give students an
 idea of what machines do in the background. Especially if students are expected to understand k-mers.
+This activity is visualised in Figure \ref{fig:activity}.
 
 - Item 1: Text assembly activity, students split into 3 groups, and get to assemble a sentence split with different K-mer values to understand consequences.
+
+![A screenshot from the slide deck covering assembly, this would be turned into an activity. Students would be split into three groups, each group with a different read length (i.e. k-mer), and each group would try and re-assemble the original text based on a pile of papers handed to them. This could be conducted with text in any language, even intentionally in a language students don't speak, to help them remove the effects of previous knowledge on solving the puzzle. One group would have 5-mers and would struggle, the other 7-mers and do better but still struggle with some repeats, and the last would have something longer like 15-mers to experience how that improves the process. The activity as written is equivalent to short and long read single-end sequencing, but we could use it as well to introduce paired-end sequencing, via another round of short-read sequencing but with paired-end results (i.e. 5 letters, a gap of 10, another 5 letters as one piece of paper.)\label{fig:activity}](./activity.png)
 
 Next, the lesson needs to expand to include a section on evaluation of genomes by
 quality metrics as well as a discussion of those major quality metrics that

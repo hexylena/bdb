@@ -43,6 +43,15 @@
 \usepackage{longtable,booktabs}
 % Fix footnotes in tables (requires footnote package)
 \IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -230,7 +239,8 @@ The initial part of the lesson covering assembly background is useful
 theoretical knowledge for students and should be kept, but maybe
 augmented with student activities like ``assembling'' some sentence of
 text, to give students an idea of what machines do in the background.
-Especially if students are expected to understand k-mers.
+Especially if students are expected to understand k-mers. This activity
+is visualised in Figure \ref{fig:activity}.
 
 \begin{itemize}
 \tightlist
@@ -239,6 +249,26 @@ Especially if students are expected to understand k-mers.
   to assemble a sentence split with different K-mer values to understand
   consequences.
 \end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{./activity.png}
+\caption{A screenshot from the slide deck covering assembly, this would
+be turned into an activity. Students would be split into three groups,
+each group with a different read length (i.e.~k-mer), and each group
+would try and re-assemble the original text based on a pile of papers
+handed to them. This could be conducted with text in any language, even
+intentionally in a language students don't speak, to help them remove
+the effects of previous knowledge on solving the puzzle. One group would
+have 5-mers and would struggle, the other 7-mers and do better but still
+struggle with some repeats, and the last would have something longer
+like 15-mers to experience how that improves the process. The activity
+as written is equivalent to short and long read single-end sequencing,
+but we could use it as well to introduce paired-end sequencing, via
+another round of short-read sequencing but with paired-end results
+(i.e.~5 letters, a gap of 10, another 5 letters as one piece of
+paper.)\label{fig:activity}}
+\end{figure}
 
 Next, the lesson needs to expand to include a section on evaluation of
 genomes by quality metrics as well as a discussion of those major
