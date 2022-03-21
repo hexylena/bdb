@@ -60,6 +60,8 @@ And exists within the Minor Bioinformatica as a 2 EC class, where students are e
 
 # Improving Lesson-Context Coherence
 
+![A graph from the tool qualimap, showing average coverage across the reference, areas of low coverage may be suspicious and require investigation, or reassembly, or resequencing.\label{fig:qualimap}](./coverage.png)
+
 The above context section gets to the core of the problem.
 
 But here we analyse two relatively small genomes, this should be scaled up
@@ -69,8 +71,6 @@ let the students separate those based on their quality scoring criteria like the
 On top of that, we fail to exercise good visualisation of the results that are readily available such as via Bandage (Figure \ref{fig:bandage}, [@10.1093/bioinformatics/btv383]), and need
 to introduce that so students have better comprehension of an incredibly
 abstract topic.
-
-![A graph from the tool qualimap, showing average coverage across the reference, areas of low coverage may be suspicious and require investigation, or reassembly, or resequencing.\label{fig:qualimap}](./coverage.png)
 
 Students do not get the chance to explore the problem space themselves and
 optimise the results, something that would be improved with integration of more
@@ -84,18 +84,24 @@ analysing questions applicable to later research.
 The initial part of the lesson covering assembly background is useful
 theoretical knowledge for students and should be kept, but maybe augmented with
 student activities like "assembling" some sentence of text, to give students an
-idea of what machines do in the background. Especially if students are expected to understand k-mers.
-This activity is visualised in Figure \ref{fig:activity}.
+idea of what machines do in the background. Especially if students are expected to understand k-mers[^kmers].
+
+[^kmers]: k-mers are substrings of a sequence of length k. So given a string like `ABCDEF`, the 4-mers from this sequence would be `ABCD`, `BCDE`, `CDEF`. This is part of the sequencing and assembly process which relies on dividing the whole genome into little tiny fragments which can then be analysed and put back together. The choice of how long those tiny fragments should be significantly impacts the assembly process
+
+This activity is visualised in Figure \ref{fig:activity}. This could be conducted with text in any langmage, even intentionally in a language students don't speak, to help them remove the effects of previous knowledge on solving the puzzle. One group would have 5-mers and would struggle, the other 7-mers and do better but still struggle with some repeats, and the last would have something longer like 15-mers to experience how that improves the process. The activity as written is equivalent to short and long read single-end sequencing, but we could use it as well to introduce paired-end sequencing, via another round of short-read sequencing but with paired-end results (i.e. 5 letters, a gap of 10, another 5 letters as one piece of paper.
+
+![A screenshot from the slide deck covering assembly, this would be turned into an activity. Students would be split into three groups, each group with a different read length (i.e. k-mer), and each group would try and re-assemble the original text based on a pile of papers handed to them. )\label{fig:activity}](./activity.png)
 
 - Item 1: Text assembly activity, students split into 3 groups, and get to assemble a sentence split with different K-mer values to understand consequences.
 
-![A screenshot from the slide deck covering assembly, this would be turned into an activity. Students would be split into three groups, each group with a different read length (i.e. k-mer), and each group would try and re-assemble the original text based on a pile of papers handed to them. This could be conducted with text in any language, even intentionally in a language students don't speak, to help them remove the effects of previous knowledge on solving the puzzle. One group would have 5-mers and would struggle, the other 7-mers and do better but still struggle with some repeats, and the last would have something longer like 15-mers to experience how that improves the process. The activity as written is equivalent to short and long read single-end sequencing, but we could use it as well to introduce paired-end sequencing, via another round of short-read sequencing but with paired-end results (i.e. 5 letters, a gap of 10, another 5 letters as one piece of paper.)\label{fig:activity}](./activity.png)
 
 Next, the lesson needs to expand to include a section on evaluation of genomes by
 quality metrics as well as a discussion of those major quality metrics that
 are used in the field.
 
-- Item 2: (Short) presentation of quality metrics (e.g. N50, Bandage), explanations of their meaning, and then good vs bad results.
+- Item 2: (Short) presentation of quality metrics (e.g. N50, Bandage), explanations of their meaning, and then good vs bad results[^badresults].
+
+[^badresults]: Bad results are so surprisingly rare in published bioinformatics, that most students will not see them until they generate them themselves. We however will manually generate bad data for students to assemble.
 
 Finally during the lesson, we will replace the dataset we're using such that we
 can have multiple assemblies of various resulting qualities. Potentially this
@@ -118,7 +124,8 @@ Students will attend this lesson with previous theoretical experience doing asse
 
 The above described updated learning objectives will allow students to efficiently approach targeted skills and knowledge as described in the minor bioinformatic and BML programmes above. This lesson falls near the end of their curriculum and as such can spend more time focused on an in-depth understanding of assemblies and their associated failure modes. The module is titled "Computational Biology", which is furthered through their development of genome assembly skills and computational scaling of analyses across multiple samples, and visualisation thereof. This is a task of which they need to become Intermediate practitioners, in both knowledge and application, within the 2ECs available. By this point in their career they have already become Novices with assembly and genomics as topics, letting them now deepen their knowledge and meet overall Minor Bioinformatica Learning Objectives such as massive data handling and visualisation.
 
-This lesson's theme is assembly which is supported through several phases and materials:
+This lesson's theme is assembly which is supported through several phases and materials, all covered within a single lesson:
+
 1. an assembly activity
 2. an initial presentation on assembly
 3. a demonstration portion

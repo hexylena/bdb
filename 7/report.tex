@@ -220,6 +220,14 @@ faster than data management, visualization gets more and more important.
 \section{Improving Lesson-Context
 Coherence}\label{improving-lesson-context-coherence}}
 
+\begin{figure}
+\centering
+\includegraphics{./coverage.png}
+\caption{A graph from the tool qualimap, showing average coverage across
+the reference, areas of low coverage may be suspicious and require
+investigation, or reassembly, or resequencing.\label{fig:qualimap}}
+\end{figure}
+
 The above context section gets to the core of the problem.
 
 But here we analyse two relatively small genomes, this should be scaled
@@ -232,14 +240,6 @@ to exercise good visualisation of the results that are readily available
 such as via Bandage (Figure \ref{fig:bandage},
 \citep{10.1093/bioinformatics/btv383}), and need to introduce that so
 students have better comprehension of an incredibly abstract topic.
-
-\begin{figure}
-\centering
-\includegraphics{./coverage.png}
-\caption{A graph from the tool qualimap, showing average coverage across
-the reference, areas of low coverage may be suspicious and require
-investigation, or reassembly, or resequencing.\label{fig:qualimap}}
-\end{figure}
 
 Students do not get the chance to explore the problem space themselves
 and optimise the results, something that would be improved with
@@ -261,8 +261,36 @@ The initial part of the lesson covering assembly background is useful
 theoretical knowledge for students and should be kept, but maybe
 augmented with student activities like ``assembling'' some sentence of
 text, to give students an idea of what machines do in the background.
-Especially if students are expected to understand k-mers. This activity
-is visualised in Figure \ref{fig:activity}.
+Especially if students are expected to understand k-mers\footnote{k-mers
+  are substrings of a sequence of length k. So given a string like
+  \texttt{ABCDEF}, the 4-mers from this sequence would be \texttt{ABCD},
+  \texttt{BCDE}, \texttt{CDEF}. This is part of the sequencing and
+  assembly process which relies on dividing the whole genome into little
+  tiny fragments which can then be analysed and put back together. The
+  choice of how long those tiny fragments should be significantly
+  impacts the assembly process}.
+
+This activity is visualised in Figure \ref{fig:activity}. This could be
+conducted with text in any langmage, even intentionally in a language
+students don't speak, to help them remove the effects of previous
+knowledge on solving the puzzle. One group would have 5-mers and would
+struggle, the other 7-mers and do better but still struggle with some
+repeats, and the last would have something longer like 15-mers to
+experience how that improves the process. The activity as written is
+equivalent to short and long read single-end sequencing, but we could
+use it as well to introduce paired-end sequencing, via another round of
+short-read sequencing but with paired-end results (i.e.~5 letters, a gap
+of 10, another 5 letters as one piece of paper.
+
+\begin{figure}
+\centering
+\includegraphics{./activity.png}
+\caption{A screenshot from the slide deck covering assembly, this would
+be turned into an activity. Students would be split into three groups,
+each group with a different read length (i.e.~k-mer), and each group
+would try and re-assemble the original text based on a pile of papers
+handed to them. )\label{fig:activity}}
+\end{figure}
 
 \begin{itemize}
 \tightlist
@@ -272,26 +300,6 @@ is visualised in Figure \ref{fig:activity}.
   consequences.
 \end{itemize}
 
-\begin{figure}
-\centering
-\includegraphics{./activity.png}
-\caption{A screenshot from the slide deck covering assembly, this would
-be turned into an activity. Students would be split into three groups,
-each group with a different read length (i.e.~k-mer), and each group
-would try and re-assemble the original text based on a pile of papers
-handed to them. This could be conducted with text in any language, even
-intentionally in a language students don't speak, to help them remove
-the effects of previous knowledge on solving the puzzle. One group would
-have 5-mers and would struggle, the other 7-mers and do better but still
-struggle with some repeats, and the last would have something longer
-like 15-mers to experience how that improves the process. The activity
-as written is equivalent to short and long read single-end sequencing,
-but we could use it as well to introduce paired-end sequencing, via
-another round of short-read sequencing but with paired-end results
-(i.e.~5 letters, a gap of 10, another 5 letters as one piece of
-paper.)\label{fig:activity}}
-\end{figure}
-
 Next, the lesson needs to expand to include a section on evaluation of
 genomes by quality metrics as well as a discussion of those major
 quality metrics that are used in the field.
@@ -300,7 +308,10 @@ quality metrics that are used in the field.
 \tightlist
 \item
   Item 2: (Short) presentation of quality metrics (e.g.~N50, Bandage),
-  explanations of their meaning, and then good vs bad results.
+  explanations of their meaning, and then good vs bad results\footnote{Bad
+    results are so surprisingly rare in published bioinformatics, that
+    most students will not see them until they generate them themselves.
+    We however will manually generate bad data for students to assemble.}.
 \end{itemize}
 
 Finally during the lesson, we will replace the dataset we're using such
@@ -371,12 +382,28 @@ overall Minor Bioinformatica Learning Objectives such as massive data
 handling and visualisation.
 
 This lesson's theme is assembly which is supported through several
-phases and materials: 1. an assembly activity 2. an initial presentation
-on assembly 3. a demonstration portion 4. a hands-on portion where
-students work in duos to assemble multiple genomes 5. a subsequent
-presentation on quality metrics and visualisation 6. a further hands on
-where students apply metrics, visualise, and evaluate all genomes for
-quality 7. a group discussion of the results
+phases and materials, all covered within a single lesson:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  an assembly activity
+\item
+  an initial presentation on assembly
+\item
+  a demonstration portion
+\item
+  a hands-on portion where students work in duos to assemble multiple
+  genomes
+\item
+  a subsequent presentation on quality metrics and visualisation
+\item
+  a further hands on where students apply metrics, visualise, and
+  evaluate all genomes for quality
+\item
+  a group discussion of the results
+\end{enumerate}
 
 These will be matched formative assessments in the form of homework
 problems which they need to resolve on their own given knowledge from
