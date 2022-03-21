@@ -1,11 +1,53 @@
-\documentclass[final]{beamer}
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+%
+\documentclass[paper=a4,]{tufte-handout}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{cleveref}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+            pdftitle={Debugging, Tracing, and Fading: Improving the Mental Model},
+            pdfauthor={Helena Rasche},
+            colorlinks=true,
+            linkcolor=Maroon,
+            filecolor=Maroon,
+            citecolor=Blue,
+            urlcolor=Blue,
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
 \usepackage{listings}
-\usepackage{color}
-\lstset{ % General setup for the package
+\newcommand{\passthrough}[1]{#1}
+\lstset{% General setup for the package
     language=Python,
     basicstyle=\small\sffamily,
     numbers=left,
-     numberstyle=\tiny,
+    numberstyle=\tiny,
     frame=tb,
     tabsize=4,
     columns=fixed,
@@ -15,10 +57,45 @@
     commentstyle=\color{red},
     keywordstyle=\color{blue}
 }
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\usepackage{pdfpages}
+
+%%%%%%%%%%% Header and Footer %%%%%%%%%%%%%%%%%%
+\fancyfoot[CE,CO]{\flushright \includegraphics[width=3cm]{../avans.jpg}}
+\fancyhead[CE,CO]{\flushleft \smallcaps{\today}}
+
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+
+\title[]{Debugging, Tracing, and Fading: Improving the Mental Model}
+\author{Helena Rasche}
+\date{2022-03-21}
+
 \begin{document}
-\begin{lstlisting}
-i = 0
-for j in range(10):
-    i = i * 2
-\end{lstlisting}
+\maketitle
+\noindent\rule{5in}{0.4pt}
+
+
+echo \citep{Williams}
+
+\bibliography{poster.bib}
+
 \end{document}

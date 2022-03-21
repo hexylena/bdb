@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: plainnat.bst
+Database file #1: poster.bib
+Warning--empty year in Williams
+Warning--empty year in Williams
+You've used 18 entries,
+            2773 wiz_defined-function locations,
+            751 strings with 9560 characters,
+and the built_in function-call counts, 8723 in all, are:
+= -- 831
+> -- 451
+< -- 10
++ -- 153
+- -- 135
+* -- 750
+:= -- 1346
+add.period$ -- 88
+call.type$ -- 18
+change.case$ -- 99
+chr.to.int$ -- 18
+cite$ -- 38
+duplicate$ -- 391
+empty$ -- 725
+format.name$ -- 163
+if$ -- 1837
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 17
+newline$ -- 127
+num.names$ -- 72
+pop$ -- 177
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 266
+stack$ -- 0
+substring$ -- 308
+swap$ -- 44
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 2
+while$ -- 77
+width$ -- 0
+write$ -- 297
+(There were 2 warnings)
