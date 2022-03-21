@@ -1,8 +1,8 @@
 ---
 author: Helena Rasche
 date: 2022-02-07
-title: Assignment 9 - Video Re-recording
-shorttitle: A9 - Video Re-recording
+title: Assignment 7 - Lesson Re-design
+shorttitle: A7 - Lesson Re-design
 titlepage: true
 logo: ../avans.jpg
 classoption:
