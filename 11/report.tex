@@ -1,0 +1,340 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+%
+\documentclass[paper=a4,justified,a4paper]{tufte-handout}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{cleveref}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+            pdftitle={Assignment 11 - Final Reflection Report},
+            pdfauthor={Helena Rasche},
+            colorlinks=true,
+            linkcolor=Maroon,
+            filecolor=Maroon,
+            citecolor=Blue,
+            urlcolor=Blue,
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\usepackage{pdfpages}
+
+%%%%%%%%%%% Header and Footer %%%%%%%%%%%%%%%%%%
+\fancyfoot[CE,CO]{\flushright \includegraphics[width=3cm]{../avans.jpg}}
+\fancyhead[CE,CO]{\flushleft \smallcaps{\today}}
+
+
+\title[A11 - Final Reflection]{Assignment 11 - Final Reflection Report}
+\author{Helena Rasche}
+\date{2022-02-07}
+
+\begin{document}
+\maketitle
+\noindent\rule{5in}{0.4pt}
+
+
+\hypertarget{reflections}{%
+\section{Reflections}\label{reflections}}
+
+\hypertarget{learning-objective-1-lecturingteaching}{%
+\subsection{Learning Objective 1:
+Lecturing/teaching}\label{learning-objective-1-lecturingteaching}}
+
+\begin{quote}
+The participant performs a lesson on the basis of a lesson preparation
+form, in such a way that he (sic) addresses strengths and executes
+actions for improvement.
+\end{quote}
+
+With regards to LO1, I had never prepared a lesson preparation form
+before this class, it was not a skill I'd exercised, nor had I ever seen
+a lesson preparation form in real life! Over the course of this module I
+think my skills in that activity have significantly improved, now I can
+construct a useful lesson preparation form which can be re-used by other
+teachers which accurately tracks what learning objectives students are
+working towards in each portion of the class and which of the Revised
+Bloom's taxonomy areas that task is exercising. I feel much more
+confident in this task now and I think the product I've produced has
+improved at each stage of this module as I had to produce more and more
+lesson preparation forms.
+
+Here is a comparison of lesson objectives I wrote at the start, and end,
+of this module
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[b]{0.47\columnwidth}\raggedright
+Before\strut
+\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\raggedright
+After\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Create a ``course'' object in CoCalc to learn this alternative system
+for classroom management\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+LO1: Compute multiple whole genome assemblies in such a way to develop
+big data processing skills (Apply+Procedural)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Create an assignment to further developer R skills of previous
+lessons\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+LO2: Learn to evaluate quality metrics so that they can separate good
+and bad assemblies (Analyse+Conceptual, Evaluate+Procedural)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.47\columnwidth}\raggedright
+Auto-grade the assignment to introduce a new feature of this digital
+classroom which allows for more automation and saves them time.\strut
+\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+LO3: Visualise assemblies so that they understand presentation of
+various failure modes (Apply+Procedural, Evaluate+Conceptual)\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Likewise, my lesson plans improved significantly as well:
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.21\columnwidth}\raggedright
+Section\strut
+\end{minipage} & \begin{minipage}[b]{0.28\columnwidth}\raggedright
+Before\strut
+\end{minipage} & \begin{minipage}[b]{0.42\columnwidth}\raggedright
+After\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.21\columnwidth}\raggedright
+Schedule\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+30 min\strut
+\end{minipage} & \begin{minipage}[t]{0.42\columnwidth}\raggedright
+``Cold Open'' 20 minutes\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright
+Content\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+What is CoCalc recap / What can it do\strut
+\end{minipage} & \begin{minipage}[t]{0.42\columnwidth}\raggedright
+We'll begin with the assembly exercise, students given either paper or
+digital pieces of paper that they need to re-assemble into their
+original sentence. Some will have mistakes or low coverage portions so
+they can make some guesses\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright
+Teacher\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+Presentation on CoCalc\strut
+\end{minipage} & \begin{minipage}[t]{0.42\columnwidth}\raggedright
+Activity introduction, Observation\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright
+Student\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+Introductions, Listening, Questioning\strut
+\end{minipage} & \begin{minipage}[t]{0.42\columnwidth}\raggedright
+Students will apply existing knowledge from e.g.~legpuzzel solving to
+assemble the sentences\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright
+Justify\strut
+\end{minipage} & \begin{minipage}[t]{0.28\columnwidth}\raggedright
+Students need to reactivate their knowledge from the previous lesson of
+how R works.\strut
+\end{minipage} & \begin{minipage}[t]{0.42\columnwidth}\raggedright
+This goes towards \textbf{LO1}, learning about the procedure of whole
+genome assembly by giving them a fun introductory activity where they
+can transition from excitement of being in the class to a critical
+thinking state and begin to \emph{Apply+Procedural} an algorithm and
+begin to \emph{Analyze+Understand} the algorithm they're making
+intuitively.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+I think from this it's clear my lesson plans have improved significantly
+from their first iteration, based on the feedback of everyone involved.
+
+\hypertarget{learning-objective-2-supporting-students}{%
+\subsection{Learning Objective 2: Supporting
+students}\label{learning-objective-2-supporting-students}}
+
+\begin{quote}
+The participant supports students in educational activities in such a
+way that it encourages them to learn activities.
+\end{quote}
+
+I worry here I have only become marginally better, as I have not found
+concrete ways to shift student motivations past ``well it affects my
+grade''. As excited as I am about the power of the skills I teach in my
+classes, the students lack real world problem applications and as such
+cannot feel the same motivation.
+
+I have learned to develop more engaging lessons, especially through the
+tip of varying work styles every 7-15 minutes as student attention
+wanes, using more modes of engaging the students. However this again has
+been constrained by real world practicalities--some work modes are
+simply inappropriate for the lesson--it's hard to have students write an
+essay on how they feel about a programming language, it does not further
+their understanding. So it's a new challenge for me to find engaging and
+varied work forms that are appropriate to the lesson material, and fit
+within the time constraints.
+
+\hypertarget{learning-objective-3-designing-education}{%
+\subsection{Learning Objective 3: Designing
+education}\label{learning-objective-3-designing-education}}
+
+\begin{quote}
+The participant (re)designs an educational activity, in such a way that
+it can be performed
+\end{quote}
+
+I think this was my favourite part of the class by a wide margin; the
+lessons I teach need a lot of improvement and this class provided
+dedicated time to work on that \emph{and} research the optimal way to do
+that. I learned a lot about computer science teaching methodology and
+the existing body of research investigating this topic in detail. I got
+to practice those techniques in my classes, to great effect and very
+positive student feedback. It gave me time and space to identify weak
+points in the lessons and consider how I would fix those, I only wish I
+had time to implement the changes, something that could have been done
+in a similar amount of time to the required report, and would have
+resulted in a significant improvement for students.
+
+\hypertarget{learning-objective-4-professional-lectureship}{%
+\subsection{Learning Objective 4: Professional
+lectureship}\label{learning-objective-4-professional-lectureship}}
+
+\begin{quote}
+The participant reflects on his teaching position in such a way he (sic)
+identifies his (sic) strengths and development points
+\end{quote}
+
+Since the start of the module I've become a lot stronger in rigorous
+lesson design, applying Bloom's taxonomy to my learning objectives, and
+breaking up lessons into smaller, more bite-sized chunks for students,
+to keep their energy levels up. Unfortunately, as I expressed on the
+first day, I'm weak in overall course design--connecting these lessons
+together to form a greater whole, and on that topic I haven't progressed
+due to the nature of this course. That said, this course has given me
+ideas for more interactive activities I can do with my students and I
+suspect they'll benefit from that.
+
+\hypertarget{future-improvements}{%
+\section{Future Improvements}\label{future-improvements}}
+
+In the near future I will be working to
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Develop more interactive activities for students. These should help
+  students engage better with the material, for students with different
+  learning preferences or styles.
+\item
+  Redesign more lessons, in order to break them up into smaller chunks,
+  and keep student attention high throughout the lesson.
+\item
+  Produce more lesson preparation forms to go along with our existing
+  lessons, where they're currently missing.
+\end{enumerate}
+
+For item 1 above, I'm specifically excited about two activities I have
+in mind. First an interactive assembly activity where students replicate
+the assembly process done by computers in genomics, but by hand and on
+paper. Here they get to work together with friends to solve a puzzle,
+exactly like the computer does. I expect it will make that lesson
+significantly more engaging and exciting for them to compete with each
+other. And for the second, I plan to make their formative assessments a
+bit more (anonymously) competitive so that they can see how their
+solution performs (in terms of memory and computation time) compared to
+other students. I hope this will give the competitive students
+motivation to improve their solutions and find better options.
+
+\hypertarget{feedback-received}{%
+\section{Feedback Received}\label{feedback-received}}
+
+I received a lot of good feedback throughout this module which I will
+summarise here
+
+\begin{itemize}
+\tightlist
+\item
+  Apologise less, once is enough.
+\item
+  Use 3C learning objectives as LO context is important.
+\item
+  Include Do's and Don't's when discussing new techniques, to help other
+  teachers and yourself later.
+\item
+  Include more graphics to help convey meaning, not everyone can read
+  the text and find it sufficient.
+\item
+  Consider the audience, some terms need elaboration and explanation if
+  they're consumed by a broader audience (e.g.~BDB reviewers.)
+\item
+  ``Can you help your friend'', get students to help each other if one
+  is stuck.
+\end{itemize}
+
+This feedback came over the course of both lessons and peer-feedback
+reports and I've found very useful as each assignment passed. Early
+feedback from Widya had a significant improvement on my lesson
+preparation forms, while Titia's comments on teaching reminder me to be
+more confident in myself and my process. Reamflar's reports gave me
+inspiration for improvements and a reminder that I was writing in an
+overly insular and inaccessible way, something I do not want! Lastly
+observing Franca's lesson was instrumental in improving my own and
+learning new ways to engage with students.
+
+\end{document}
