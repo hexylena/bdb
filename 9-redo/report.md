@@ -13,7 +13,66 @@ colorlinks: true
 bibliography: report.bib
 ---
 
-I hereby submit an updated version of A9. First is a response to a specific piece of feedback, followed by the body of the report. Please scroll to "Classroom Management" to skip to the report, it is included.
+I hereby submit an updated version of A9. First is the body of the report, followed by a response to a specific piece of feedback, which I felt was important to address.
+
+Firstly I wish to address
+
+> Wherever I look in the recording, there is no interaction whatsoever. Students might as well not exist in this lesson.
+
+I worry that this assessor has potentially missed the breakout rooms which are unfortunately invisible in these videos. I think if it had been a traditional classroom, I might not have received this comment, as there *is* significant interaction, but it's not necessarily present on video.
+
+Please consider that in the intentionally lengthy breakout rooms, students are taking 20-30 minute periods to
+
+- work together to solve challenging problems
+- collaborate and discuss
+- determine and implement solutions
+- teaching each other, when one is stronger, and learning from the other student(s) when they are weaker in this area
+
+Here we have a significant amount of student interaction. Additionally I am often "walking" around the breakout rooms to check in on students, discuss, and answer their questions. All activities which are invisible on the recording, to the assessor. However since I unfortunately missed to make separate additional recordings of my time in the breakout rooms and splice those in with video editing software, this was not present in the final product for a review that might be skipping through the lesson observing a minute here and a minute there.
+
+Additionally to further address assessor concerns, I've added a kahoot at the start to recap the last lesson, and homework question period, and did a Microsoft Form in chat to determine how long their homework took.
+
+# Intervention: FastCups
+
+<!--o what do you see yourself doing in terms of interventions?-->
+
+Per feedback from the assessors who *rightly* point out the lack of student feedback, I've sought out other methodologies. I absolutely agree that it is vital to understand how students are feeling about a topic and if they are successfully keeping up with the material.
+
+To that end, I've introduced the use of [fastcups](http://cups.fast.ai/), which mimics a technique I had previously used in in-person programming classes. There we used post-it notes (sticky notes), and would have students swap them out based on how they were feeling. Red for "I'm struggling!", yellow for "I could use more repetition", and green for "It's all good!"
+
+This methodology works exceedingly well, and better than relying on facial expressions for a significant number of subcases. As an instructor I am not familiar with all of the variance in cultural differences of my students, what individual facial expressions mean for one student may mean a completely different thing for another, based on background, or, nothing at all. Additionally neurotypical (NT) and neurodivergent (ND)\footnote{Here I mostly focus on neurodivergencies like ADHD and ASD which are both co-morbid, and often seems to be present in computer science education, given the author's experiences.} students may have a different appearance when focusing, ND students may sometimes look off into nowhere while listening hard, to avoid distraction. To an NT teacher this looks like being ignored and can lead to negative interactions and ableism [@Clouder2020-ux]. Thus having a more direct measure of their feelings is important, if I cannot determine their feelings from visual appearance alone\footnote{This issue is discussed further in the feedback section.}.
+
+Thus letting students self report their feelings of the class provides significantly better data than making a guess based off of their appearance!
+
+# Effects on students
+
+<!--o what effect do you think your interventions have on the students | o how do you think your interventions happen to the students?-->
+<!--o which (e) point (s) of feedback have you actually included in this lesson?-->
+
+Students were much more able to communicate their feelings back to me as a teacher, and the addition of the anonymity allows them to be more honest in their reviewing[10.1016/j.jesp.2014.07.014]. When the teacher view of the tool was on screen, students could see the responses of their classmates (in aggregate) and feel more comfortable in not being the only person feeling behind or needing more explanation.
+
+As a teacher I was really pleased with the effect of the tool; I could
+
+1. Ask students "please update fast cups, how do you feel?"
+2. See the result trend towards yellow and red
+3. Then slow down and re-explain the topic
+4. Ask again
+5. And see more green.
+
+This really quick interaction turnaround time produced a more efficient classroom (e.g. timepoints 39:00 - 41:38 / 2:23:55 - 2:29:18) I'm not waiting for students to unmute and respond in front of their classmates, they're able to tell me instantaneously, with no loss of privacy. And for me as a teacher, that instantaneous feedback is invaluable, especially since it is provided in a way that does not disrupt the flow of the lesson.
+
+# Lessons Learned
+
+If I am to continue in my preferred modality, and even if not (given inability to read faces with any accuracy, as a new teacher), I should absolutely be employing this tool consistently throughout my classes to get feedback from students on how they are experiencing the class. I think this gave students significantly more options for interaction throughout the lesson in ways that work for them, based on Assignment 8. Additionally given the context of the type of person attracted towards a computer science based curriculum and their learning preferences, versus say the type in a business course, this methodology meshes well with the students.
+
+<!--o what did you learn with regard to competence teaching?-->
+<!--o what did you learn with regard to the competence?-->
+
+# Tips & Tops & the future
+
+Top: Seeing student responses go from yellow and red to green (and some yellow) following an explanation was a great feeling, and gave me significant confidence in the methodology, that I could react so quickly to their feelings. Additionally having the student responses on screen occasionally, combined with anonymity, perhaps gave them more confidence in asnwering that they were having difficulties. It is common across teaching, I believe, for students to feel alone in being slow or behind, when in fact everyone is, and it only becomes apparent during discussions.
+
+Tip: During the course I developed a concern for low response rate, that perhaps students were not actively updating their "cups", and in a future revision I will explore implementing a "clear" function, to allow deleting their responses and then requesting them freshly, to make sure the majority of students are responding. Additionally I should make sure that the interface is always visible so I can appear to be more responsive to it. I was watching my phone with the interface, but, this may not have been apparent to students.
 
 # Feedback
 
@@ -25,7 +84,7 @@ I specifically wish to address this feedback, because I worry the assessor is no
 > in class. And it offers you less insight into your students and therefore less
 > feeling about whether what you do with it, does land with them.
 
-The potentially resulting cyberbullying, racism, and ableism, lead me to consciously make different choices.
+The potentially resulting cyberbullying, racism, and ableism, lead me to consciously make different choices, which I discuss below. I understand the reason for the criticism, but disagree with the solution, I think we can find alternatives that are better.
 
 ## Hypothetical
 
@@ -62,7 +121,7 @@ Students worry actively about things in their home, siblings, pets, or their app
 - I was concerned about my physical location being seen behind me [A, B]
 - I was concerned about distracting my classmates
 
-Where A are things that affect under represented minorities more than Cis-Het-White-Male students, and B are items that affect female students more than male students. None of these are desireable feelings that students should experience, and this concern is easily removed by not requiring cameras.
+Where A are things that affect under represented minorities more than Cis/Het-White-Male students, and B are items that affect female students more than male students. None of these are desireable feelings that students should experience, and this concern is easily removed by not requiring cameras.
 
 ## What can we really tell?
 
@@ -73,50 +132,9 @@ When even teens are able to subvert the camera [@vice] and use looped videos á 
 This is not an activity I wish to dedicate my time to, discering the body language of students and making uneducated guesses at what their behaviour represents. I'd love for them to pay attention, but they are adults, they will make their own choices.
 
 
-# Classroom Management
+# Classroom Management {#sec:report}
 
 <!--o what did you generally notice about your classroom management? What do you see that works?-->
 
 Overall the classroom is fine, I have essentially zero issues with misbehaviour or disruptive behaviour. They're all adults by this point in their career, they know what's expected of them, and they're starting to understand the independence that's expected of them in the workplace. What really works for me is treating them like adults and holding them to the same standards I'm held to in meetings I attend; if I want my camera off it stays off, if my back-to-back meetings mean I need to eat then I do with mic and camera off. Additionally it is important to note that this classroom is a *subset* of the interactions I have with these students, but by only submitting the classroom recording as evidence, a very limited picture is given of relationships with students and out of class interactions. I am regularly in communication with them via email, teams, and other meetings which provide for different interaction modalities.
 
-# Intervention: FastCups
-
-<!--o what do you see yourself doing in terms of interventions?-->
-
-Per feedback from the assessors who *rightly* point out the lack of student feedback, I've sought out other methodologies. I absolutely agree that it is vital to understand how students are feeling about a topic and if they are successfully keeping up with the material.
-
-To that end, I've introduced the use of [fastcups](http://cups.fast.ai/), which mimics a technique I had previously used in in-person programming classes. There we used post-it notes (sticky notes), and would have students swap them out based on how they were feeling. Red for "I'm struggling!", yellow for "I could use more repetition", and green for "It's all good!"
-
-This methodology works exceedingly well, and better than relying on facial expressions for a significant number of subcases. As an instructor I am not familiar with all of the variance in cultural differences of my students, what individual facial expressions mean for one student may mean a completely different thing for another, based on background, or, nothing at all. Additionally neurotypical (NT) and neurodivergent (ND)\footnote{Here I mostly focus on neurodivergencies like ADHD and ASD which are both co-morbid, and often visible in computer science education.} students may have a different appearance when focusing, ND students may sometimes look off into nowhere while listening hard, to avoid distraction. To an NT teacher this looks like being ignored and can lead to negative interactions and ableism\cite{10.1007/s10734-020-00513-6}.
-
-Thus letting students self report their feelings of the class provides significantly better data than making a guess based off of their appearance.
-
-# Effects on students
-
-<!--o what effect do you think your interventions have on the students | o how do you think your interventions happen to the students?-->
-<!--o which (e) point (s) of feedback have you actually included in this lesson?-->
-
-Students were much more able to communicate their feelings back to me as a teacher, and the addition of the anonymity allows them to be more honest in their reviewing[10.1016/j.jesp.2014.07.014]. When the teacher view of the tool was on screen, students could see the responses of their classmates (in aggregate) and feel more comfortable in not being the only person feeling behind or needing more explanation.
-
-As a teacher I was really pleased with the effect of the tool; I could
-
-1. Ask students "please update fast cups, how do you feel?"
-2. See the result trend towards yellow and red
-3. Then slow down and re-explain the topic
-4. Ask again
-5. And see more green.
-
-This really quick interaction turnaround time produced a more efficient classroom. I'm not waiting for students to unmute and respond in front of their classmates, they're able to tell me instantaneously, with no loss of privacy. And for me as a teacher, that instantaneous feedback is invaluable, especially since it is provided in a way that does not disrupt the flow of the lesson.
-
-# Lessons Learned
-
-If I am to continue in my preferred modality, and even if not (given inability to read faces with any accuracy, as a new teacher), I should absolutely be employing this tool consistently throughout my classes to get feedback from students on how they are experiencing the class. I think this gave students significantly more options for interaction throughout the lesson in ways that work for them, based on Assignment 8. Additionally given the context of the type of person attracted towards a computer science based curriculum and their learning preferences, versus say the type in a business course, this methodology meshes well with the students.
-
-<!--o what did you learn with regard to competence teaching?-->
-<!--o what did you learn with regard to the competence?-->
-
-# Tips & Tops & the future
-
-Top: Seeing student responses go from yellow and red to green (and some yellow) following an explanation was a great feeling, and gave me significant confidence in the methodology, that I could react so quickly to their feelings. Additionally having the student responses on screen occasionally, combined with anonymity, perhaps gave them more confidence in asnwering that they were having difficulties. It is common across teaching, I believe, for students to feel alone in being slow or behind, when in fact everyone is, and it only becomes apparent during discussions.
-
-Tip: During the course I developed a concern for low response rate, that perhaps students were not actively updating their "cups", and in a future revision I will explore implementing a "clear" function, to allow deleting their responses and then requesting them freshly, to make sure the majority of students are responding. Additionally I should make sure that the interface is always visible so I can appear to be more responsive to it. I was watching my phone with the interface, but, this may not have been apparent to students.

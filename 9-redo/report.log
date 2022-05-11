@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  11 MAY 2022 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  11 MAY 2022 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,142 +848,142 @@ Overfull \hbox (56.90552pt too wide) in paragraph at lines 87--88
 [] 
  []
 
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+13.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-47.
+58.
+
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-47.
+58.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-147.
+158.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-147.
+158.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 147.
+(Font)              <10> on input line 158.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.6> on input line 147.
+(Font)              <7.6> on input line 158.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 147.
+(Font)              <6> on input line 158.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-147.
+158.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 147.
+(Font)              scaled to size 10.42007pt on input line 158.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 147.
+(Font)              scaled to size 7.91925pt on input line 158.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 147.
+(Font)              scaled to size 6.25204pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 147.
+(Font)              scaled to size 10.42007pt on input line 158.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 147.
+(Font)              scaled to size 7.91925pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 147.
+(Font)              scaled to size 6.25204pt on input line 158.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 147.
+(Font)              <8> on input line 158.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 147.
+(Font)              <5> on input line 158.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 147.
+(Font)              scaled to size 8.33606pt on input line 158.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 147.
+(Font)              scaled to size 5.21004pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 147.
+(Font)              scaled to size 8.33606pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 147.
- [1
+(Font)              scaled to size 5.21004pt on input line 158.
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Warning: Marginpar on page 2 moved.
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-82.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-<educase.jpg, id=58, 708.6475pt x 316.18124pt>
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+<../avans.jpg, id=42, 1273.75874pt x 424.58624pt>
+File: ../avans.jpg Graphic file (type jpg)
+<use ../avans.jpg>
+Package pdftex.def Info: ../avans.jpg  used on input line 219.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+[2 <../avans.jpg>]
+File: ../avans.jpg Graphic file (type jpg)
+<use ../avans.jpg>
+Package pdftex.def Info: ../avans.jpg  used on input line 273.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+ [3]
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+File: ../avans.jpg Graphic file (type jpg)
+<use ../avans.jpg>
+Package pdftex.def Info: ../avans.jpg  used on input line 333.
+(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
+[4]
+<educase.jpg, id=94, 708.6475pt x 316.18124pt>
 File: educase.jpg Graphic file (type jpg)
 <use educase.jpg>
-Package pdftex.def Info: educase.jpg  used on input line 208.
+Package pdftex.def Info: educase.jpg  used on input line 357.
 (pdftex.def)             Requested size: 304.45297pt x 135.8395pt.
-<../avans.jpg, id=61, 1273.75874pt x 424.58624pt>
+ (./report.bbl
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 217.
+Package pdftex.def Info: ../avans.jpg  used on input line 1.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
- [2 <../avans.jpg>]
-
-Package natbib Warning: Citation `10.1007/s10734-020-00513-6' undefined on inpu
-t line 262.
-
-File: ../avans.jpg Graphic file (type jpg)
-<use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 263.
-(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
-[3 <./educase.jpg>]
-
-LaTeX Warning: Marginpar on page 4 moved.
-
-
-LaTeX Warning: Marginpar on page 4 moved.
-
-File: ../avans.jpg Graphic file (type jpg)
-<use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 328.
-(pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
-[4] (./report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+ [5 <./educase.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 \T1/lmr/m/n/10 (+20) blogs / confessions -[] community -[] college -[] dean / s
 hould -[] showing -[] faces -[]
  []
 
 )
-
-Package natbib Warning: There were undefined citations.
-
 File: ../avans.jpg Graphic file (type jpg)
 <use ../avans.jpg>
-Package pdftex.def Info: ../avans.jpg  used on input line 340.
+Package pdftex.def Info: ../avans.jpg  used on input line 387.
 (pdftex.def)             Requested size: 85.34334pt x 28.44777pt.
-[5] (./report.aux)
+ [6] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 24498741D6ACFAA9CBC2D607CA4B64D5;842.
+(rerunfilecheck)             Checksum: 3E6D45589E175F5AB2035F5BC7E18EA5;841.
  ) 
 Here is how much of TeX's memory you used:
- 17270 strings out of 478994
- 273746 string characters out of 5858191
- 644431 words of memory out of 5000000
- 34169 multiletter control sequences out of 15000+600000
- 490807 words of font info for 160 fonts, out of 8000000 for 9000
+ 17283 strings out of 478994
+ 273861 string characters out of 5858191
+ 642754 words of memory out of 5000000
+ 34173 multiletter control sequences out of 15000+600000
+ 491194 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,13n,105p,1195b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
-/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2021/
+ 105i,13n,105p,1195b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
 pe1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
@@ -991,10 +991,10 @@ lm/lmr5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/
 texlive/2021/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/20
 21/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on report.pdf (5 pages, 377604 bytes).
+Output written on report.pdf (6 pages, 382220 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  47163 words of extra memory for PDF output out of 51595 (max. 10000000)
 

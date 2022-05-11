@@ -1,4 +1,4 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{8}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -7,7 +7,7 @@
 
 \bibitem[Afzal and Rafiq(2021)]{afzal2021sighted}
 Ayesha Afzal and Shahid Rafiq.
-\newblock Sighted students’ perceptions about the effectiveness of university
+\newblock Sighted students' perceptions about the effectiveness of university
   teachers with visual impairment: A case study.
 \newblock \emph{Journal of Inclusive Education}, 5\penalty0 (1):\penalty0
   131--148, 2021.
@@ -20,6 +20,13 @@ Frank~R. Castelli and Mark~A. Sarvary.
   2021.
 \newblock \doi{https://doi.org/10.1002/ece3.7123}.
 \newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.7123}.
+
+\bibitem[Clouder et~al.(2020)Clouder, Karakus, Cinotti, Ferreyra, Fierros, and
+  Rojo]{Clouder2020-ux}
+Lynn Clouder, Mehmet Karakus, Alessia Cinotti, Mar{\'\i}a~Virginia Ferreyra,
+  Genoveva~Amador Fierros, and Patricia Rojo.
+\newblock Neurodiversity in higher education: a narrative synthesis.
+\newblock \emph{High. Educ.}, 80\penalty0 (4):\penalty0 757--778, October 2020.
 
 \bibitem[Cole(2020)]{vice}
 Samantha Cole.

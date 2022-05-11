@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex report"] 1652282943 "report.aux" "report.bbl" "report" 1652282953
+["bibtex report"] 1652286357 "report.aux" "report.bbl" "report" 1652286368
   "/usr/local/texlive/2021/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "report.aux" 1652282950 3967 42bff0cd74c04cdea4246a768dc564d1 "pdflatex"
-  "report.bib" 1652282628 5471 49735e31fdbcb1488077a5cdaccea7f4 ""
+  "report.aux" 1652286365 4048 774db3aaca286d575412d02361004169 "pdflatex"
+  "report.bib" 1652286287 6026 cc2cd9687aac3722b775c681e736ab78 ""
   (generated)
   "report.blg"
   "report.bbl"
-["pdflatex"] 1652282943 "report.tex" "report.pdf" "report" 1652282953
+["pdflatex"] 1652286357 "report.tex" "report.pdf" "report" 1652286368
   "../avans.jpg" 1643799155 117164 ec909003e32633be4f1d0fbd11c2b47d ""
   "/dev/null" 1652088114 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
@@ -176,12 +176,12 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1620210352 2724693 caefc7c3309cbb5c1b42d48b53df8b84 ""
   "/usr/local/texlive/2021/texmf.cnf" 1620210302 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "educase.jpg" 1603230569 46711 e0d25596db82c80e9d959f5369a0bfd9 ""
-  "report.aux" 1652282950 3967 42bff0cd74c04cdea4246a768dc564d1 "pdflatex"
-  "report.bbl" 1652282943 2241 44a27a904d44537d9d9df1f081515009 "bibtex report"
-  "report.out" 1652282950 842 24498741d6acfaa9cbc2d607ca4b64d5 "pdflatex"
-  "report.tex" 1652282921 14385 6ab75404562a6cb179d2ac1fbbe356a1 ""
+  "report.aux" 1652286365 4048 774db3aaca286d575412d02361004169 "pdflatex"
+  "report.bbl" 1652286357 2615 8857120f69a3d19fe338c6e6949a2ffc "bibtex report"
+  "report.out" 1652286365 841 3e6d45589e175f5ab2035f5bc7e18ea5 "pdflatex"
+  "report.tex" 1652286335 16404 f4c09331ff795da982beab7bd2cc6e99 ""
   (generated)
-  "report.out"
-  "report.pdf"
-  "report.log"
   "report.aux"
+  "report.out"
+  "report.log"
+  "report.pdf"
