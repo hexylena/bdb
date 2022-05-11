@@ -1,0 +1,55 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Afzal and Rafiq(2021)]{afzal2021sighted}
+Ayesha Afzal and Shahid Rafiq.
+\newblock Sighted students’ perceptions about the effectiveness of university
+  teachers with visual impairment: A case study.
+\newblock \emph{Journal of Inclusive Education}, 5\penalty0 (1):\penalty0
+  131--148, 2021.
+
+\bibitem[Castelli and Sarvary(2021)]{10.1002/ece3.7123}
+Frank~R. Castelli and Mark~A. Sarvary.
+\newblock Why students do not turn on their video cameras during online classes
+  and an equitable and inclusive plan to encourage them to do so.
+\newblock \emph{Ecology and Evolution}, 11\penalty0 (8):\penalty0 3565--3576,
+  2021.
+\newblock \doi{https://doi.org/10.1002/ece3.7123}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.7123}.
+
+\bibitem[Cole(2020)]{vice}
+Samantha Cole.
+\newblock People are looping videos to fake paying attention in zoom meetings,
+  Mar 2020.
+\newblock URL
+  \url{https://www.vice.com/en/article/7kzq5x/looping-videos-to-fake-paying-attention-in-zoom-meetings}.
+
+\bibitem[Duncan(2021)]{duncan2021}
+Sarah Duncan.
+\newblock In defense of the black zoom screen square, Dec 2021.
+\newblock URL
+  \url{https://monsteringmag.com/magazine/in-defense-of-the-black-zoom-screen-square}.
+
+\bibitem[Marquart and Russel(2021)]{educase}
+Matthea Marquart and Roxanne Russel.
+\newblock Dear professors: Don't let student webcams trick you, 2021.
+\newblock URL
+  \url{https://er.educause.edu/blogs/2020/9/dear-professors-dont-let-student-webcams-trick-you}.
+
+\bibitem[Ng(2020)]{ng2020communicative}
+Chiew~Hong Ng.
+\newblock Communicative language teaching (clt) through synchronous online
+  teaching in english language preservice teacher education.
+\newblock \emph{International Journal of TESOL Studies}, 2\penalty0
+  (2):\penalty0 62--73, 2020.
+
+\bibitem[Reed(2020)]{reed_2020}
+Matt Reed, May 2020.
+\newblock URL
+  \url{https://www.insidehighered.com/blogs/confessions-community-college-dean/should-showing-faces-be-mandatory}.
+
+\end{thebibliography}

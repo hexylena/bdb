@@ -877,6 +877,17 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/fixltx2e.sty
@@ -1215,6 +1226,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmr9.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT ./sharing.png
 INPUT ./sharing.png
@@ -1314,7 +1326,6 @@ INPUT ./report.bbl
 INPUT report.bbl
 INPUT ./report.bbl
 INPUT report.bbl
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ts1-lmri10.tfm
 INPUT ../avans.jpg
 INPUT ../avans.jpg

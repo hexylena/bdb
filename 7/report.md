@@ -16,6 +16,8 @@ abstract: |
   The lesson to be re-designed is Computational Biology, Day 3: De Novo Genome Assembly, which unfortunately currently experiences poor coherence between assessment, learning objectives, and learning activities. This will be improved by taking the solid core of the lesson and expanding it to further test student's abilities and align with overall course and program goals.
 ---
 
+*NB: The lesson preparation form is attached at the end of this document*
+
 # The situation
 
 Currently the lesson features the following components:
@@ -88,7 +90,7 @@ idea of what machines do in the background. Especially if students are expected 
 
 [^kmers]: k-mers are substrings of a sequence of length k. So given a string like `ABCDEF`, the 4-mers from this sequence would be `ABCD`, `BCDE`, `CDEF`. This is part of the sequencing and assembly process which relies on dividing the whole genome into little tiny fragments which can then be analysed and put back together. The choice of how long those tiny fragments should be significantly impacts the assembly process
 
-This activity is visualised in Figure \ref{fig:activity}. This could be conducted with text in any langmage, even intentionally in a language students don't speak, to help them remove the effects of previous knowledge on solving the puzzle. One group would have 5-mers and would struggle, the other 7-mers and do better but still struggle with some repeats, and the last would have something longer like 15-mers to experience how that improves the process. The activity as written is equivalent to short and long read single-end sequencing, but we could use it as well to introduce paired-end sequencing, via another round of short-read sequencing but with paired-end results (i.e. 5 letters, a gap of 10, another 5 letters as one piece of paper.
+This activity is visualised in Figure \ref{fig:activity}. This could be conducted with text in any language, even intentionally in a language students don't speak, to help them remove the effects of previous knowledge on solving the puzzle. One group would have 5-mers and would struggle, the other 7-mers and do better but still struggle with some repeats, and the last would have something longer like 15-mers to experience how that improves the process. The activity as written is equivalent to short and long read single-end sequencing, but we could use it as well to introduce paired-end sequencing, via another round of short-read sequencing but with paired-end results (i.e. 5 letters, a gap of 10, another 5 letters as one piece of paper.
 
 ![A screenshot from the slide deck covering assembly, this would be turned into an activity. Students would be split into three groups, each group with a different read length (i.e. k-mer), and each group would try and re-assemble the original text based on a pile of papers handed to them. )\label{fig:activity}](./activity.png)
 

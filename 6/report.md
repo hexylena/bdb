@@ -17,6 +17,8 @@ include-after:
 colorlinks: true
 ---
 
+*NB*: the Lesson Preparation forms are attached at the end of this document, as well as survey responses.
+
 # Pair Programming
 
 Pair programming is a software development methodology requiring two programmers to work together to solve problems and implement code.
