@@ -75,6 +75,19 @@
 \fancyfoot[CE,CO]{\flushright \includegraphics[width=3cm]{../avans.jpg}}
 \fancyhead[CE,CO]{\flushleft \smallcaps{\today}}
 
+\usepackage[most]{tcolorbox}
+\definecolor{linequote}{RGB}{224,215,188}
+\definecolor{backquote}{RGB}{249,245,233}
+\newtcolorbox{myquote}{%
+    enhanced, breakable,
+    size=fbox,
+    frame hidden, boxrule=0pt,
+    sharp corners,
+    colback=backquote,
+    borderline horizontal={.5pt}{0pt}{linequote},
+    borderline horizontal={.5pt}{1pt}{linequote}
+}
+
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
@@ -89,14 +102,12 @@
 
 I hereby submit an updated version of A9. First is the body of the
 report, followed by a response to a specific piece of feedback, which I
-felt was important to address.
+felt was important to address. However firstly I wish to address:
 
-Firstly I wish to address
-
-\begin{quote}
-Wherever I look in the recording, there is no interaction whatsoever.
+\begin{myquote}
+Asessor 1: Wherever I look in the recording, there is no interaction whatsoever.
 Students might as well not exist in this lesson.
-\end{quote}
+\end{myquote}
 
 I worry that this assessor has potentially missed the breakout rooms
 which are unfortunately invisible in these videos. I think if it had
@@ -245,14 +256,14 @@ may not have been apparent to students.
 I specifically wish to address this feedback, because I worry the
 assessor is not up to date on the equity and inclusion issues present
 
-\begin{quote}
+\begin{myquote}
 But if you give students the freedom to hide behind a closed camera, it
 can have negative consequences for your students and for you. It's not
 good for their bonding with you and their peers. And it's not good for
 their engagement in class. And it offers you less insight into your
 students and therefore less feeling about whether what you do with it,
 does land with them.
-\end{quote}
+\end{myquote}
 
 The potentially resulting cyberbullying, racism, and ableism, lead me to
 consciously make different choices, which I discuss below. I understand
