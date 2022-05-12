@@ -130,9 +130,9 @@ Lastly the assessments must be augmented, discussing k-mer contributions is good
 
 # Updated Learning Objectives
 
-- Compute multiple whole genome assemblies in such a way to develop big data processing skills (Apply+Procedural)
-- Learn to evaluate quality metrics so that they can separate good and bad assemblies (Analyse+Conceptual, Evaluate+Procedural)
-- Visualise assemblies so that they understand presentation of various failure modes (Apply+Procedural, Evaluate+Conceptual)
+- \color{green}Compute \color{blue}multiple whole genome assemblies \color{black} in such a way to \color{red}develop big data processing skills \color{black} (Apply+Procedural)
+- Learn to \color{green}evaluate \color{blue}quality metrics \color{black} so that they can \color{red}separate good and bad assemblies \color{black} (Analyse+Conceptual, Evaluate+Procedural)
+- \color{green}Visualise \color{blue}assemblies \color{black} so that they \color{red}understand the presentation of various failure modes \color{black} (Apply+Procedural, Evaluate+Conceptual)
 
 # Lesson Re-design
 
