@@ -1,4 +1,4 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -58,5 +58,14 @@ Chiew~Hong Ng.
 Matt Reed, May 2020.
 \newblock URL
   \url{https://www.insidehighered.com/blogs/confessions-community-college-dean/should-showing-faces-be-mandatory}.
+
+\bibitem[Zant and Kray(2014)]{Van_Zant_2014}
+Alex B.~Van Zant and Laura~J. Kray.
+\newblock {\textquotedblleft}i can{\textquotesingle}t lie to your
+  face{\textquotedblright}: Minimal face-to-face interaction promotes honesty.
+\newblock \emph{Journal of Experimental Social Psychology}, 55:\penalty0
+  234--238, nov 2014.
+\newblock \doi{10.1016/j.jesp.2014.07.014}.
+\newblock URL \url{https://doi.org/10.1016/j.jesp.2014.07.014}.
 
 \end{thebibliography}
